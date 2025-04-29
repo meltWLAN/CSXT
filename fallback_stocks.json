@@ -1,0 +1,2102 @@
+[
+  {
+    "code": "6882749",
+    "name": "科技股2749",
+    "industry": "科技",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6055581",
+    "name": "科技股5581",
+    "industry": "科技",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6055657",
+    "name": "科技股5657",
+    "industry": "科技",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6053907",
+    "name": "科技股3907",
+    "industry": "科技",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6054087",
+    "name": "科技股4087",
+    "industry": "科技",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6059619",
+    "name": "科技股9619",
+    "industry": "科技",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6051452",
+    "name": "科技股1452",
+    "industry": "科技",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "3001801",
+    "name": "科技股1801",
+    "industry": "科技",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6051570",
+    "name": "科技股1570",
+    "industry": "科技",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6056385",
+    "name": "科技股6385",
+    "industry": "科技",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "3006246",
+    "name": "科技股6246",
+    "industry": "科技",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6887880",
+    "name": "科技股7880",
+    "industry": "科技",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6054847",
+    "name": "科技股4847",
+    "industry": "科技",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "3004263",
+    "name": "科技股4263",
+    "industry": "科技",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6882354",
+    "name": "科技股2354",
+    "industry": "科技",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "3006465",
+    "name": "科技股6465",
+    "industry": "科技",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6059182",
+    "name": "科技股9182",
+    "industry": "科技",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6884837",
+    "name": "科技股4837",
+    "industry": "科技",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6882350",
+    "name": "科技股2350",
+    "industry": "科技",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6885517",
+    "name": "科技股5517",
+    "industry": "科技",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6057720",
+    "name": "科技股7720",
+    "industry": "科技",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6880357",
+    "name": "科技股0357",
+    "industry": "科技",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "3000758",
+    "name": "科技股0758",
+    "industry": "科技",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "3007045",
+    "name": "科技股7045",
+    "industry": "科技",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6888510",
+    "name": "科技股8510",
+    "industry": "科技",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6885102",
+    "name": "科技股5102",
+    "industry": "科技",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6058676",
+    "name": "科技股8676",
+    "industry": "科技",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6052558",
+    "name": "科技股2558",
+    "industry": "科技",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6052610",
+    "name": "科技股2610",
+    "industry": "科技",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6055297",
+    "name": "科技股5297",
+    "industry": "科技",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6016054",
+    "name": "金融股6054",
+    "industry": "金融",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6013516",
+    "name": "金融股3516",
+    "industry": "金融",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6012762",
+    "name": "金融股2762",
+    "industry": "金融",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6001720",
+    "name": "金融股1720",
+    "industry": "金融",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6008044",
+    "name": "金融股8044",
+    "industry": "金融",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6017482",
+    "name": "金融股7482",
+    "industry": "金融",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6001267",
+    "name": "金融股1267",
+    "industry": "金融",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6013960",
+    "name": "金融股3960",
+    "industry": "金融",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6010753",
+    "name": "金融股0753",
+    "industry": "金融",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6006778",
+    "name": "金融股6778",
+    "industry": "金融",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6001878",
+    "name": "金融股1878",
+    "industry": "金融",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6014248",
+    "name": "金融股4248",
+    "industry": "金融",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6002278",
+    "name": "金融股2278",
+    "industry": "金融",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6004998",
+    "name": "金融股4998",
+    "industry": "金融",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6006181",
+    "name": "金融股6181",
+    "industry": "金融",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6002832",
+    "name": "金融股2832",
+    "industry": "金融",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6012422",
+    "name": "金融股2422",
+    "industry": "金融",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6001453",
+    "name": "金融股1453",
+    "industry": "金融",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6001964",
+    "name": "金融股1964",
+    "industry": "金融",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6012663",
+    "name": "金融股2663",
+    "industry": "金融",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6008710",
+    "name": "金融股8710",
+    "industry": "金融",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6001979",
+    "name": "金融股1979",
+    "industry": "金融",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6003990",
+    "name": "金融股3990",
+    "industry": "金融",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6003776",
+    "name": "金融股3776",
+    "industry": "金融",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6019061",
+    "name": "金融股9061",
+    "industry": "金融",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6014561",
+    "name": "金融股4561",
+    "industry": "金融",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6012680",
+    "name": "金融股2680",
+    "industry": "金融",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6013782",
+    "name": "金融股3782",
+    "industry": "金融",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6007270",
+    "name": "金融股7270",
+    "industry": "金融",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6010842",
+    "name": "金融股0842",
+    "industry": "金融",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "3003820",
+    "name": "医疗股3820",
+    "industry": "医疗",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "3006105",
+    "name": "医疗股6105",
+    "industry": "医疗",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "3003816",
+    "name": "医疗股3816",
+    "industry": "医疗",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "3005119",
+    "name": "医疗股5119",
+    "industry": "医疗",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "3008283",
+    "name": "医疗股8283",
+    "industry": "医疗",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "3001128",
+    "name": "医疗股1128",
+    "industry": "医疗",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "3003730",
+    "name": "医疗股3730",
+    "industry": "医疗",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "3001515",
+    "name": "医疗股1515",
+    "industry": "医疗",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "3000239",
+    "name": "医疗股0239",
+    "industry": "医疗",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6032261",
+    "name": "医疗股2261",
+    "industry": "医疗",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6031970",
+    "name": "医疗股1970",
+    "industry": "医疗",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "3002057",
+    "name": "医疗股2057",
+    "industry": "医疗",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "3002144",
+    "name": "医疗股2144",
+    "industry": "医疗",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6032501",
+    "name": "医疗股2501",
+    "industry": "医疗",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "3002308",
+    "name": "医疗股2308",
+    "industry": "医疗",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6038625",
+    "name": "医疗股8625",
+    "industry": "医疗",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "3001685",
+    "name": "医疗股1685",
+    "industry": "医疗",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "3005722",
+    "name": "医疗股5722",
+    "industry": "医疗",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6036768",
+    "name": "医疗股6768",
+    "industry": "医疗",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "3001141",
+    "name": "医疗股1141",
+    "industry": "医疗",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6039914",
+    "name": "医疗股9914",
+    "industry": "医疗",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "3001729",
+    "name": "医疗股1729",
+    "industry": "医疗",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "3004893",
+    "name": "医疗股4893",
+    "industry": "医疗",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "3003073",
+    "name": "医疗股3073",
+    "industry": "医疗",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6034886",
+    "name": "医疗股4886",
+    "industry": "医疗",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6037010",
+    "name": "医疗股7010",
+    "industry": "医疗",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "3003209",
+    "name": "医疗股3209",
+    "industry": "医疗",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6034568",
+    "name": "医疗股4568",
+    "industry": "医疗",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6037359",
+    "name": "医疗股7359",
+    "industry": "医疗",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "3008419",
+    "name": "医疗股8419",
+    "industry": "医疗",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6005675",
+    "name": "能源股5675",
+    "industry": "能源",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6012936",
+    "name": "能源股2936",
+    "industry": "能源",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6010164",
+    "name": "能源股0164",
+    "industry": "能源",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6002169",
+    "name": "能源股2169",
+    "industry": "能源",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6017384",
+    "name": "能源股7384",
+    "industry": "能源",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6011340",
+    "name": "能源股1340",
+    "industry": "能源",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6012667",
+    "name": "能源股2667",
+    "industry": "能源",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6003940",
+    "name": "能源股3940",
+    "industry": "能源",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6017317",
+    "name": "能源股7317",
+    "industry": "能源",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6005526",
+    "name": "能源股5526",
+    "industry": "能源",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6010737",
+    "name": "能源股0737",
+    "industry": "能源",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6013516",
+    "name": "能源股3516",
+    "industry": "能源",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6016817",
+    "name": "能源股6817",
+    "industry": "能源",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6000921",
+    "name": "能源股0921",
+    "industry": "能源",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6018695",
+    "name": "能源股8695",
+    "industry": "能源",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6017561",
+    "name": "能源股7561",
+    "industry": "能源",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6004460",
+    "name": "能源股4460",
+    "industry": "能源",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6006637",
+    "name": "能源股6637",
+    "industry": "能源",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6001820",
+    "name": "能源股1820",
+    "industry": "能源",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6016055",
+    "name": "能源股6055",
+    "industry": "能源",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6005580",
+    "name": "能源股5580",
+    "industry": "能源",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6014173",
+    "name": "能源股4173",
+    "industry": "能源",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6006623",
+    "name": "能源股6623",
+    "industry": "能源",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6016324",
+    "name": "能源股6324",
+    "industry": "能源",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6015295",
+    "name": "能源股5295",
+    "industry": "能源",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6010265",
+    "name": "能源股0265",
+    "industry": "能源",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6000056",
+    "name": "能源股0056",
+    "industry": "能源",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6001322",
+    "name": "能源股1322",
+    "industry": "能源",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6012245",
+    "name": "能源股2245",
+    "industry": "能源",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6009748",
+    "name": "能源股9748",
+    "industry": "能源",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "0021731",
+    "name": "消费股1731",
+    "industry": "消费",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6030928",
+    "name": "消费股0928",
+    "industry": "消费",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "0020919",
+    "name": "消费股0919",
+    "industry": "消费",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6036089",
+    "name": "消费股6089",
+    "industry": "消费",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "0022737",
+    "name": "消费股2737",
+    "industry": "消费",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "0022454",
+    "name": "消费股2454",
+    "industry": "消费",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "0023214",
+    "name": "消费股3214",
+    "industry": "消费",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "0028934",
+    "name": "消费股8934",
+    "industry": "消费",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6033903",
+    "name": "消费股3903",
+    "industry": "消费",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6039450",
+    "name": "消费股9450",
+    "industry": "消费",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "0027923",
+    "name": "消费股7923",
+    "industry": "消费",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "0024570",
+    "name": "消费股4570",
+    "industry": "消费",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6039424",
+    "name": "消费股9424",
+    "industry": "消费",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "0024297",
+    "name": "消费股4297",
+    "industry": "消费",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "0026415",
+    "name": "消费股6415",
+    "industry": "消费",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "0022941",
+    "name": "消费股2941",
+    "industry": "消费",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "0021266",
+    "name": "消费股1266",
+    "industry": "消费",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6034215",
+    "name": "消费股4215",
+    "industry": "消费",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6030526",
+    "name": "消费股0526",
+    "industry": "消费",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6030850",
+    "name": "消费股0850",
+    "industry": "消费",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6037837",
+    "name": "消费股7837",
+    "industry": "消费",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "0022039",
+    "name": "消费股2039",
+    "industry": "消费",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6036833",
+    "name": "消费股6833",
+    "industry": "消费",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "0022691",
+    "name": "消费股2691",
+    "industry": "消费",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "0022326",
+    "name": "消费股2326",
+    "industry": "消费",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6039492",
+    "name": "消费股9492",
+    "industry": "消费",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "0027899",
+    "name": "消费股7899",
+    "industry": "消费",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "0025263",
+    "name": "消费股5263",
+    "industry": "消费",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "0026243",
+    "name": "消费股6243",
+    "industry": "消费",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "0026869",
+    "name": "消费股6869",
+    "industry": "消费",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6017384",
+    "name": "工业股7384",
+    "industry": "工业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6001704",
+    "name": "工业股1704",
+    "industry": "工业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6009280",
+    "name": "工业股9280",
+    "industry": "工业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6010844",
+    "name": "工业股0844",
+    "industry": "工业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6011716",
+    "name": "工业股1716",
+    "industry": "工业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6017967",
+    "name": "工业股7967",
+    "industry": "工业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6001563",
+    "name": "工业股1563",
+    "industry": "工业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6010747",
+    "name": "工业股0747",
+    "industry": "工业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6013228",
+    "name": "工业股3228",
+    "industry": "工业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6015879",
+    "name": "工业股5879",
+    "industry": "工业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6014456",
+    "name": "工业股4456",
+    "industry": "工业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6000249",
+    "name": "工业股0249",
+    "industry": "工业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6010374",
+    "name": "工业股0374",
+    "industry": "工业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6003883",
+    "name": "工业股3883",
+    "industry": "工业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6012643",
+    "name": "工业股2643",
+    "industry": "工业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6000651",
+    "name": "工业股0651",
+    "industry": "工业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6003288",
+    "name": "工业股3288",
+    "industry": "工业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6013782",
+    "name": "工业股3782",
+    "industry": "工业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6003394",
+    "name": "工业股3394",
+    "industry": "工业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6001793",
+    "name": "工业股1793",
+    "industry": "工业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6011975",
+    "name": "工业股1975",
+    "industry": "工业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6003075",
+    "name": "工业股3075",
+    "industry": "工业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6012910",
+    "name": "工业股2910",
+    "industry": "工业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6000670",
+    "name": "工业股0670",
+    "industry": "工业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6015716",
+    "name": "工业股5716",
+    "industry": "工业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6001972",
+    "name": "工业股1972",
+    "industry": "工业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6016673",
+    "name": "工业股6673",
+    "industry": "工业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6018947",
+    "name": "工业股8947",
+    "industry": "工业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6016703",
+    "name": "工业股6703",
+    "industry": "工业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6017841",
+    "name": "工业股7841",
+    "industry": "工业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6019941",
+    "name": "材料股9941",
+    "industry": "材料",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6003330",
+    "name": "材料股3330",
+    "industry": "材料",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6015661",
+    "name": "材料股5661",
+    "industry": "材料",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6005605",
+    "name": "材料股5605",
+    "industry": "材料",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6005132",
+    "name": "材料股5132",
+    "industry": "材料",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6003675",
+    "name": "材料股3675",
+    "industry": "材料",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6014418",
+    "name": "材料股4418",
+    "industry": "材料",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6018323",
+    "name": "材料股8323",
+    "industry": "材料",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6014509",
+    "name": "材料股4509",
+    "industry": "材料",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6011589",
+    "name": "材料股1589",
+    "industry": "材料",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6018036",
+    "name": "材料股8036",
+    "industry": "材料",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6005507",
+    "name": "材料股5507",
+    "industry": "材料",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6000783",
+    "name": "材料股0783",
+    "industry": "材料",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6018280",
+    "name": "材料股8280",
+    "industry": "材料",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6003414",
+    "name": "材料股3414",
+    "industry": "材料",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6010400",
+    "name": "材料股0400",
+    "industry": "材料",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6014754",
+    "name": "材料股4754",
+    "industry": "材料",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6017162",
+    "name": "材料股7162",
+    "industry": "材料",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6005148",
+    "name": "材料股5148",
+    "industry": "材料",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6017419",
+    "name": "材料股7419",
+    "industry": "材料",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6019686",
+    "name": "材料股9686",
+    "industry": "材料",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6006145",
+    "name": "材料股6145",
+    "industry": "材料",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6013886",
+    "name": "材料股3886",
+    "industry": "材料",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6018036",
+    "name": "材料股8036",
+    "industry": "材料",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6006181",
+    "name": "材料股6181",
+    "industry": "材料",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6004548",
+    "name": "材料股4548",
+    "industry": "材料",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6000745",
+    "name": "材料股0745",
+    "industry": "材料",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6013533",
+    "name": "材料股3533",
+    "industry": "材料",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6017796",
+    "name": "材料股7796",
+    "industry": "材料",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6002618",
+    "name": "材料股2618",
+    "industry": "材料",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6006515",
+    "name": "通信股6515",
+    "industry": "通信",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "0021275",
+    "name": "通信股1275",
+    "industry": "通信",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "0025317",
+    "name": "通信股5317",
+    "industry": "通信",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6009961",
+    "name": "通信股9961",
+    "industry": "通信",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "0023862",
+    "name": "通信股3862",
+    "industry": "通信",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6007983",
+    "name": "通信股7983",
+    "industry": "通信",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6005773",
+    "name": "通信股5773",
+    "industry": "通信",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "0025324",
+    "name": "通信股5324",
+    "industry": "通信",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "0025831",
+    "name": "通信股5831",
+    "industry": "通信",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6007330",
+    "name": "通信股7330",
+    "industry": "通信",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "0029147",
+    "name": "通信股9147",
+    "industry": "通信",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "0025457",
+    "name": "通信股5457",
+    "industry": "通信",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6009491",
+    "name": "通信股9491",
+    "industry": "通信",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6001545",
+    "name": "通信股1545",
+    "industry": "通信",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "0027408",
+    "name": "通信股7408",
+    "industry": "通信",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6007344",
+    "name": "通信股7344",
+    "industry": "通信",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "0026823",
+    "name": "通信股6823",
+    "industry": "通信",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6002415",
+    "name": "通信股2415",
+    "industry": "通信",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "0020876",
+    "name": "通信股0876",
+    "industry": "通信",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "0029286",
+    "name": "通信股9286",
+    "industry": "通信",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "0023187",
+    "name": "通信股3187",
+    "industry": "通信",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "0027660",
+    "name": "通信股7660",
+    "industry": "通信",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6001097",
+    "name": "通信股1097",
+    "industry": "通信",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6000617",
+    "name": "通信股0617",
+    "industry": "通信",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "0024651",
+    "name": "通信股4651",
+    "industry": "通信",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "0022085",
+    "name": "通信股2085",
+    "industry": "通信",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6009459",
+    "name": "通信股9459",
+    "industry": "通信",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "0027061",
+    "name": "通信股7061",
+    "industry": "通信",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6009743",
+    "name": "通信股9743",
+    "industry": "通信",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6004602",
+    "name": "通信股4602",
+    "industry": "通信",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6001978",
+    "name": "房地产股1978",
+    "industry": "房地产",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "0014535",
+    "name": "房地产股4535",
+    "industry": "房地产",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6004996",
+    "name": "房地产股4996",
+    "industry": "房地产",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "0015375",
+    "name": "房地产股5375",
+    "industry": "房地产",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6004685",
+    "name": "房地产股4685",
+    "industry": "房地产",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6007918",
+    "name": "房地产股7918",
+    "industry": "房地产",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "0015002",
+    "name": "房地产股5002",
+    "industry": "房地产",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "0011273",
+    "name": "房地产股1273",
+    "industry": "房地产",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6007895",
+    "name": "房地产股7895",
+    "industry": "房地产",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "0015016",
+    "name": "房地产股5016",
+    "industry": "房地产",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "0019041",
+    "name": "房地产股9041",
+    "industry": "房地产",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "0015452",
+    "name": "房地产股5452",
+    "industry": "房地产",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "0016948",
+    "name": "房地产股6948",
+    "industry": "房地产",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "0017000",
+    "name": "房地产股7000",
+    "industry": "房地产",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6008072",
+    "name": "房地产股8072",
+    "industry": "房地产",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6000267",
+    "name": "房地产股0267",
+    "industry": "房地产",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6005562",
+    "name": "房地产股5562",
+    "industry": "房地产",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "0011423",
+    "name": "房地产股1423",
+    "industry": "房地产",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6003974",
+    "name": "房地产股3974",
+    "industry": "房地产",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6000381",
+    "name": "房地产股0381",
+    "industry": "房地产",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6001550",
+    "name": "房地产股1550",
+    "industry": "房地产",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "0010270",
+    "name": "房地产股0270",
+    "industry": "房地产",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6003632",
+    "name": "房地产股3632",
+    "industry": "房地产",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6003141",
+    "name": "房地产股3141",
+    "industry": "房地产",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "0016118",
+    "name": "房地产股6118",
+    "industry": "房地产",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6004095",
+    "name": "房地产股4095",
+    "industry": "房地产",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6004012",
+    "name": "房地产股4012",
+    "industry": "房地产",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "0017746",
+    "name": "房地产股7746",
+    "industry": "房地产",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "0011808",
+    "name": "房地产股1808",
+    "industry": "房地产",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "0014709",
+    "name": "房地产股4709",
+    "industry": "房地产",
+    "market": "SZ",
+    "is_fallback": true
+  },
+  {
+    "code": "6010155",
+    "name": "公用事业股0155",
+    "industry": "公用事业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6007359",
+    "name": "公用事业股7359",
+    "industry": "公用事业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6017732",
+    "name": "公用事业股7732",
+    "industry": "公用事业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6004885",
+    "name": "公用事业股4885",
+    "industry": "公用事业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6008245",
+    "name": "公用事业股8245",
+    "industry": "公用事业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6006119",
+    "name": "公用事业股6119",
+    "industry": "公用事业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6006530",
+    "name": "公用事业股6530",
+    "industry": "公用事业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6017551",
+    "name": "公用事业股7551",
+    "industry": "公用事业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6018048",
+    "name": "公用事业股8048",
+    "industry": "公用事业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6004331",
+    "name": "公用事业股4331",
+    "industry": "公用事业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6012786",
+    "name": "公用事业股2786",
+    "industry": "公用事业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6009616",
+    "name": "公用事业股9616",
+    "industry": "公用事业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6011461",
+    "name": "公用事业股1461",
+    "industry": "公用事业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6019410",
+    "name": "公用事业股9410",
+    "industry": "公用事业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6018310",
+    "name": "公用事业股8310",
+    "industry": "公用事业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6002991",
+    "name": "公用事业股2991",
+    "industry": "公用事业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6017712",
+    "name": "公用事业股7712",
+    "industry": "公用事业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6002528",
+    "name": "公用事业股2528",
+    "industry": "公用事业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6016081",
+    "name": "公用事业股6081",
+    "industry": "公用事业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6006209",
+    "name": "公用事业股6209",
+    "industry": "公用事业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6006249",
+    "name": "公用事业股6249",
+    "industry": "公用事业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6013551",
+    "name": "公用事业股3551",
+    "industry": "公用事业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6017093",
+    "name": "公用事业股7093",
+    "industry": "公用事业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6017286",
+    "name": "公用事业股7286",
+    "industry": "公用事业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6018374",
+    "name": "公用事业股8374",
+    "industry": "公用事业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6019325",
+    "name": "公用事业股9325",
+    "industry": "公用事业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6007076",
+    "name": "公用事业股7076",
+    "industry": "公用事业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6005187",
+    "name": "公用事业股5187",
+    "industry": "公用事业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6017827",
+    "name": "公用事业股7827",
+    "industry": "公用事业",
+    "market": "SH",
+    "is_fallback": true
+  },
+  {
+    "code": "6011075",
+    "name": "公用事业股1075",
+    "industry": "公用事业",
+    "market": "SH",
+    "is_fallback": true
+  }
+]

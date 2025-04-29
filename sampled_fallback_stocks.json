@@ -1,0 +1,6102 @@
+[
+  {
+    "code": "6055470",
+    "name": "科技股5470",
+    "industry": "科技",
+    "market": "SH",
+    "is_fallback": true,
+    "historical_data": [
+      {
+        "date": "2025-04-28",
+        "open": 49.97,
+        "high": 51.28,
+        "low": 48.65,
+        "close": 50.73,
+        "volume": 165707,
+        "amount": 8405631,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-25",
+        "open": 48.8,
+        "high": 50.53,
+        "low": 48.74,
+        "close": 49.2,
+        "volume": 222520,
+        "amount": 10948767,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-24",
+        "open": 48.12,
+        "high": 49.43,
+        "low": 47.81,
+        "close": 47.96,
+        "volume": 181115,
+        "amount": 8686721,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-23",
+        "open": 47.67,
+        "high": 48.48,
+        "low": 47.37,
+        "close": 47.98,
+        "volume": 230840,
+        "amount": 11076687,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-22",
+        "open": 48.1,
+        "high": 48.99,
+        "low": 46.76,
+        "close": 47.63,
+        "volume": 306816,
+        "amount": 14612484,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-21",
+        "open": 50.28,
+        "high": 50.52,
+        "low": 48.9,
+        "close": 49.99,
+        "volume": 198183,
+        "amount": 9907727,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-18",
+        "open": 49.15,
+        "high": 49.45,
+        "low": 47.4,
+        "close": 49.12,
+        "volume": 230376,
+        "amount": 11315180,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-17",
+        "open": 46.79,
+        "high": 47.88,
+        "low": 46.44,
+        "close": 47.7,
+        "volume": 170114,
+        "amount": 8114292,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-16",
+        "open": 49.09,
+        "high": 50.88,
+        "low": 48.36,
+        "close": 49.64,
+        "volume": 176636,
+        "amount": 8768741,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-15",
+        "open": 46.98,
+        "high": 47.58,
+        "low": 45.74,
+        "close": 45.95,
+        "volume": 135854,
+        "amount": 6242704,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-14",
+        "open": 47.72,
+        "high": 48.72,
+        "low": 47.06,
+        "close": 48.33,
+        "volume": 175808,
+        "amount": 8496178,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-11",
+        "open": 49.88,
+        "high": 50.54,
+        "low": 48.95,
+        "close": 50.27,
+        "volume": 272075,
+        "amount": 13677590,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-10",
+        "open": 48.35,
+        "high": 49.28,
+        "low": 47.86,
+        "close": 47.96,
+        "volume": 238059,
+        "amount": 11417395,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-09",
+        "open": 50.73,
+        "high": 52.01,
+        "low": 49.75,
+        "close": 50.81,
+        "volume": 287088,
+        "amount": 14586152,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-08",
+        "open": 51.08,
+        "high": 51.84,
+        "low": 49.15,
+        "close": 50.84,
+        "volume": 149523,
+        "amount": 7601236,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-07",
+        "open": 47.77,
+        "high": 49.91,
+        "low": 47.46,
+        "close": 48.71,
+        "volume": 163520,
+        "amount": 7964958,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-04",
+        "open": 49.73,
+        "high": 51.69,
+        "low": 49.58,
+        "close": 51.01,
+        "volume": 240768,
+        "amount": 12280496,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-03",
+        "open": 49.19,
+        "high": 49.29,
+        "low": 47.31,
+        "close": 47.84,
+        "volume": 190380,
+        "amount": 9107460,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-02",
+        "open": 48.43,
+        "high": 48.66,
+        "low": 46.63,
+        "close": 47.15,
+        "volume": 172994,
+        "amount": 8157044,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-01",
+        "open": 47.82,
+        "high": 49.14,
+        "low": 47.15,
+        "close": 47.43,
+        "volume": 184469,
+        "amount": 8748533,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-31",
+        "open": 47.69,
+        "high": 48.55,
+        "low": 46.51,
+        "close": 46.65,
+        "volume": 256817,
+        "amount": 11980523,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-28",
+        "open": 47.89,
+        "high": 49.27,
+        "low": 46.78,
+        "close": 47.39,
+        "volume": 273214,
+        "amount": 12948986,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-27",
+        "open": 49.34,
+        "high": 50.62,
+        "low": 48.59,
+        "close": 50.1,
+        "volume": 191251,
+        "amount": 9582567,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-26",
+        "open": 49.27,
+        "high": 50.81,
+        "low": 48.68,
+        "close": 49.25,
+        "volume": 208790,
+        "amount": 10282688,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-25",
+        "open": 48.4,
+        "high": 49.59,
+        "low": 48.17,
+        "close": 48.44,
+        "volume": 155171,
+        "amount": 7516661,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-24",
+        "open": 49.05,
+        "high": 50.62,
+        "low": 48.66,
+        "close": 49.56,
+        "volume": 195846,
+        "amount": 9706979,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-21",
+        "open": 49.28,
+        "high": 51.02,
+        "low": 48.73,
+        "close": 49.31,
+        "volume": 153547,
+        "amount": 7571477,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-20",
+        "open": 49.53,
+        "high": 50.82,
+        "low": 48.61,
+        "close": 50.65,
+        "volume": 167563,
+        "amount": 8487188,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-19",
+        "open": 50.3,
+        "high": 50.66,
+        "low": 49.28,
+        "close": 49.76,
+        "volume": 199846,
+        "amount": 9944697,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-18",
+        "open": 51.24,
+        "high": 51.3,
+        "low": 48.61,
+        "close": 48.94,
+        "volume": 215653,
+        "amount": 10554445,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-17",
+        "open": 50.94,
+        "high": 51.55,
+        "low": 49.41,
+        "close": 51.3,
+        "volume": 211045,
+        "amount": 10826229,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-14",
+        "open": 50.79,
+        "high": 51.41,
+        "low": 49.79,
+        "close": 50.3,
+        "volume": 152593,
+        "amount": 7674949,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-13",
+        "open": 51.43,
+        "high": 51.61,
+        "low": 49.63,
+        "close": 50.78,
+        "volume": 213160,
+        "amount": 10823438,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-12",
+        "open": 52.18,
+        "high": 52.57,
+        "low": 50.99,
+        "close": 51.89,
+        "volume": 185958,
+        "amount": 9649546,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-11",
+        "open": 51.43,
+        "high": 52.23,
+        "low": 50.8,
+        "close": 52.13,
+        "volume": 143922,
+        "amount": 7502247,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-10",
+        "open": 51.62,
+        "high": 52.41,
+        "low": 50.88,
+        "close": 51.49,
+        "volume": 151903,
+        "amount": 7821080,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-07",
+        "open": 53.13,
+        "high": 53.58,
+        "low": 51.4,
+        "close": 52.41,
+        "volume": 128329,
+        "amount": 6725459,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-06",
+        "open": 50.3,
+        "high": 52.76,
+        "low": 50.19,
+        "close": 52.18,
+        "volume": 244464,
+        "amount": 12755738,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-05",
+        "open": 52.64,
+        "high": 54.33,
+        "low": 52.35,
+        "close": 54.01,
+        "volume": 190126,
+        "amount": 10269515,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-04",
+        "open": 51.59,
+        "high": 52.04,
+        "low": 50.69,
+        "close": 51.84,
+        "volume": 164649,
+        "amount": 8535822,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-03",
+        "open": 53.45,
+        "high": 54.23,
+        "low": 51.31,
+        "close": 51.48,
+        "volume": 302066,
+        "amount": 15549542,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-28",
+        "open": 52.44,
+        "high": 54.02,
+        "low": 51.63,
+        "close": 53.33,
+        "volume": 155282,
+        "amount": 8281789,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-27",
+        "open": 53.2,
+        "high": 54.09,
+        "low": 52.06,
+        "close": 54.07,
+        "volume": 197555,
+        "amount": 10681197,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-26",
+        "open": 52.68,
+        "high": 54.25,
+        "low": 52.59,
+        "close": 53.58,
+        "volume": 171665,
+        "amount": 9198360,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-25",
+        "open": 53.88,
+        "high": 54.26,
+        "low": 51.9,
+        "close": 52.84,
+        "volume": 182643,
+        "amount": 9650070,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-24",
+        "open": 52.31,
+        "high": 53.69,
+        "low": 50.76,
+        "close": 50.94,
+        "volume": 191832,
+        "amount": 9771850,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-21",
+        "open": 52.44,
+        "high": 53.5,
+        "low": 51.1,
+        "close": 53.47,
+        "volume": 278849,
+        "amount": 14911090,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-20",
+        "open": 53.09,
+        "high": 54.23,
+        "low": 52.39,
+        "close": 53.09,
+        "volume": 263924,
+        "amount": 14010612,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-19",
+        "open": 50.32,
+        "high": 52.09,
+        "low": 49.99,
+        "close": 51.43,
+        "volume": 181338,
+        "amount": 9326395,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-18",
+        "open": 50.87,
+        "high": 52.18,
+        "low": 50.75,
+        "close": 51.01,
+        "volume": 206304,
+        "amount": 10523786,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-17",
+        "open": 51.74,
+        "high": 52.07,
+        "low": 50.03,
+        "close": 51.22,
+        "volume": 139158,
+        "amount": 7127146,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-14",
+        "open": 51.1,
+        "high": 52.29,
+        "low": 49.82,
+        "close": 51.36,
+        "volume": 168197,
+        "amount": 8639207,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-13",
+        "open": 51.41,
+        "high": 53.2,
+        "low": 51.39,
+        "close": 52.41,
+        "volume": 185610,
+        "amount": 9726978,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-12",
+        "open": 50.65,
+        "high": 51.83,
+        "low": 50.23,
+        "close": 50.34,
+        "volume": 130771,
+        "amount": 6583123,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-11",
+        "open": 50.87,
+        "high": 52.45,
+        "low": 50.34,
+        "close": 50.83,
+        "volume": 243092,
+        "amount": 12355766,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-10",
+        "open": 51.22,
+        "high": 52.1,
+        "low": 50.8,
+        "close": 51.98,
+        "volume": 196452,
+        "amount": 10212402,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-07",
+        "open": 50.33,
+        "high": 52.06,
+        "low": 50.03,
+        "close": 50.09,
+        "volume": 189131,
+        "amount": 9474138,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-06",
+        "open": 51.05,
+        "high": 51.21,
+        "low": 49.48,
+        "close": 50.83,
+        "volume": 238909,
+        "amount": 12144931,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-05",
+        "open": 50.74,
+        "high": 52.52,
+        "low": 50.2,
+        "close": 50.67,
+        "volume": 213919,
+        "amount": 10839720,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-04",
+        "open": 50.58,
+        "high": 51.62,
+        "low": 50.15,
+        "close": 51.02,
+        "volume": 247600,
+        "amount": 12632728,
+        "is_mock": true
+      }
+    ],
+    "current_price": 50.73
+  },
+  {
+    "code": "6012654",
+    "name": "公用事业股2654",
+    "industry": "公用事业",
+    "market": "SH",
+    "is_fallback": true,
+    "historical_data": [
+      {
+        "date": "2025-04-28",
+        "open": 36.18,
+        "high": 37.23,
+        "low": 35.28,
+        "close": 36.24,
+        "volume": 2111761,
+        "amount": 76539997,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-25",
+        "open": 37.16,
+        "high": 37.29,
+        "low": 35.9,
+        "close": 36.58,
+        "volume": 2124624,
+        "amount": 77729334,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-24",
+        "open": 36.55,
+        "high": 38.02,
+        "low": 36.48,
+        "close": 37.09,
+        "volume": 3670069,
+        "amount": 136133016,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-23",
+        "open": 35.7,
+        "high": 36.93,
+        "low": 35.33,
+        "close": 36.9,
+        "volume": 4118541,
+        "amount": 151972722,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-22",
+        "open": 35.91,
+        "high": 36.1,
+        "low": 35.27,
+        "close": 35.58,
+        "volume": 2374437,
+        "amount": 84484093,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-21",
+        "open": 34.94,
+        "high": 35.36,
+        "low": 34.38,
+        "close": 34.74,
+        "volume": 1464654,
+        "amount": 50875210,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-18",
+        "open": 36.23,
+        "high": 36.55,
+        "low": 34.94,
+        "close": 36.45,
+        "volume": 2362726,
+        "amount": 86113714,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-17",
+        "open": 33.39,
+        "high": 34.2,
+        "low": 33.27,
+        "close": 33.34,
+        "volume": 1461921,
+        "amount": 48736521,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-16",
+        "open": 33.7,
+        "high": 34.54,
+        "low": 33.31,
+        "close": 34.22,
+        "volume": 1569970,
+        "amount": 53724254,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-15",
+        "open": 33.64,
+        "high": 34.79,
+        "low": 33.38,
+        "close": 34.43,
+        "volume": 1872124,
+        "amount": 64464374,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-14",
+        "open": 33.15,
+        "high": 34.12,
+        "low": 32.87,
+        "close": 33.26,
+        "volume": 3034719,
+        "amount": 100934898,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-11",
+        "open": 32.01,
+        "high": 33.57,
+        "low": 31.86,
+        "close": 32.53,
+        "volume": 1911777,
+        "amount": 62192066,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-10",
+        "open": 34.52,
+        "high": 34.67,
+        "low": 33.7,
+        "close": 34.07,
+        "volume": 2416016,
+        "amount": 82306768,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-09",
+        "open": 31.46,
+        "high": 32.65,
+        "low": 31.27,
+        "close": 31.72,
+        "volume": 1308641,
+        "amount": 41509684,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-08",
+        "open": 32.62,
+        "high": 32.8,
+        "low": 31.53,
+        "close": 31.83,
+        "volume": 2325815,
+        "amount": 74025060,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-07",
+        "open": 32.29,
+        "high": 33.02,
+        "low": 31.79,
+        "close": 32.77,
+        "volume": 3073854,
+        "amount": 100717539,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-04",
+        "open": 31.79,
+        "high": 32.16,
+        "low": 31.16,
+        "close": 31.47,
+        "volume": 2959405,
+        "amount": 93139924,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-03",
+        "open": 33.91,
+        "high": 34.76,
+        "low": 33.11,
+        "close": 34.73,
+        "volume": 2530348,
+        "amount": 87876511,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-02",
+        "open": 30.71,
+        "high": 30.81,
+        "low": 30.1,
+        "close": 30.16,
+        "volume": 1502376,
+        "amount": 45306973,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-01",
+        "open": 30.97,
+        "high": 31.04,
+        "low": 30.27,
+        "close": 30.57,
+        "volume": 1466629,
+        "amount": 44830329,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-31",
+        "open": 30.31,
+        "high": 30.91,
+        "low": 29.89,
+        "close": 30.03,
+        "volume": 2536078,
+        "amount": 76165482,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-28",
+        "open": 30.58,
+        "high": 31.37,
+        "low": 30.46,
+        "close": 30.88,
+        "volume": 2238667,
+        "amount": 69127126,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-27",
+        "open": 30.37,
+        "high": 30.64,
+        "low": 29.74,
+        "close": 30.58,
+        "volume": 2265032,
+        "amount": 69260235,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-26",
+        "open": 29.45,
+        "high": 30.13,
+        "low": 29.03,
+        "close": 29.11,
+        "volume": 2001116,
+        "amount": 58250067,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-25",
+        "open": 31.95,
+        "high": 32.16,
+        "low": 31.16,
+        "close": 31.98,
+        "volume": 1609478,
+        "amount": 51476236,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-24",
+        "open": 30.97,
+        "high": 31.72,
+        "low": 30.92,
+        "close": 31.04,
+        "volume": 2336063,
+        "amount": 72502355,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-21",
+        "open": 30.87,
+        "high": 31.95,
+        "low": 30.51,
+        "close": 31.9,
+        "volume": 2527220,
+        "amount": 80610865,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-20",
+        "open": 31.46,
+        "high": 32.36,
+        "low": 30.75,
+        "close": 32.27,
+        "volume": 1812425,
+        "amount": 58482232,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-19",
+        "open": 30.54,
+        "high": 31.15,
+        "low": 30.27,
+        "close": 30.35,
+        "volume": 3108171,
+        "amount": 94319077,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-18",
+        "open": 31.26,
+        "high": 31.39,
+        "low": 30.29,
+        "close": 30.63,
+        "volume": 3198537,
+        "amount": 97979051,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-17",
+        "open": 33.51,
+        "high": 34.12,
+        "low": 32.6,
+        "close": 32.79,
+        "volume": 2186291,
+        "amount": 71696168,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-14",
+        "open": 31.96,
+        "high": 32.17,
+        "low": 31.47,
+        "close": 31.68,
+        "volume": 2284462,
+        "amount": 72373387,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-13",
+        "open": 34.1,
+        "high": 34.18,
+        "low": 32.61,
+        "close": 33.33,
+        "volume": 2187345,
+        "amount": 72910187,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-12",
+        "open": 33.51,
+        "high": 34.42,
+        "low": 32.97,
+        "close": 33.43,
+        "volume": 2095078,
+        "amount": 70039311,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-11",
+        "open": 34.19,
+        "high": 34.46,
+        "low": 33.29,
+        "close": 34.42,
+        "volume": 2675032,
+        "amount": 92085301,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-10",
+        "open": 34.16,
+        "high": 34.55,
+        "low": 32.84,
+        "close": 33.91,
+        "volume": 1716629,
+        "amount": 58202465,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-07",
+        "open": 33.91,
+        "high": 34.6,
+        "low": 33.36,
+        "close": 33.95,
+        "volume": 2410994,
+        "amount": 81848397,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-06",
+        "open": 34.93,
+        "high": 35.6,
+        "low": 34.54,
+        "close": 35.26,
+        "volume": 3065768,
+        "amount": 108112748,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-05",
+        "open": 34.36,
+        "high": 35.27,
+        "low": 33.84,
+        "close": 35.07,
+        "volume": 2576959,
+        "amount": 90364902,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-04",
+        "open": 35.94,
+        "high": 36.35,
+        "low": 35.42,
+        "close": 36.07,
+        "volume": 2944250,
+        "amount": 106202359,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-03",
+        "open": 37.07,
+        "high": 38.29,
+        "low": 36.74,
+        "close": 37.71,
+        "volume": 2090076,
+        "amount": 78825240,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-28",
+        "open": 35.46,
+        "high": 36.88,
+        "low": 35.39,
+        "close": 36.74,
+        "volume": 2644874,
+        "amount": 97160013,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-27",
+        "open": 37.3,
+        "high": 38.31,
+        "low": 37.25,
+        "close": 37.57,
+        "volume": 2845381,
+        "amount": 106891323,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-26",
+        "open": 36.2,
+        "high": 36.52,
+        "low": 35.68,
+        "close": 36.44,
+        "volume": 2282406,
+        "amount": 83162360,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-25",
+        "open": 36.32,
+        "high": 37.2,
+        "low": 36.04,
+        "close": 37.13,
+        "volume": 1797246,
+        "amount": 66730860,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-24",
+        "open": 36.96,
+        "high": 37.45,
+        "low": 36.36,
+        "close": 36.44,
+        "volume": 2565358,
+        "amount": 93492930,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-21",
+        "open": 37.15,
+        "high": 37.7,
+        "low": 36.29,
+        "close": 37.1,
+        "volume": 2406415,
+        "amount": 89287510,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-20",
+        "open": 36.1,
+        "high": 37.57,
+        "low": 35.82,
+        "close": 36.58,
+        "volume": 2518836,
+        "amount": 92143380,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-19",
+        "open": 35.72,
+        "high": 37.36,
+        "low": 35.62,
+        "close": 35.9,
+        "volume": 2126505,
+        "amount": 76348888,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-18",
+        "open": 36.68,
+        "high": 37.38,
+        "low": 35.24,
+        "close": 35.79,
+        "volume": 1398269,
+        "amount": 50039610,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-17",
+        "open": 36.56,
+        "high": 38.36,
+        "low": 36.35,
+        "close": 38.35,
+        "volume": 1432825,
+        "amount": 54955678,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-14",
+        "open": 36.48,
+        "high": 37.03,
+        "low": 35.75,
+        "close": 36.02,
+        "volume": 1326772,
+        "amount": 47784332,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-13",
+        "open": 35.52,
+        "high": 36.98,
+        "low": 35.29,
+        "close": 35.52,
+        "volume": 2526116,
+        "amount": 89721734,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-12",
+        "open": 35.77,
+        "high": 35.85,
+        "low": 34.49,
+        "close": 34.9,
+        "volume": 2592954,
+        "amount": 90498321,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-11",
+        "open": 35.12,
+        "high": 36.27,
+        "low": 35.07,
+        "close": 36.21,
+        "volume": 1684955,
+        "amount": 61012480,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-10",
+        "open": 35.12,
+        "high": 36.24,
+        "low": 34.71,
+        "close": 35.33,
+        "volume": 2130975,
+        "amount": 75277864,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-07",
+        "open": 35.11,
+        "high": 36.39,
+        "low": 34.74,
+        "close": 36.17,
+        "volume": 1368070,
+        "amount": 49485309,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-06",
+        "open": 35.95,
+        "high": 35.96,
+        "low": 34.03,
+        "close": 34.71,
+        "volume": 2072949,
+        "amount": 71962314,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-05",
+        "open": 34.99,
+        "high": 35.41,
+        "low": 34.01,
+        "close": 34.89,
+        "volume": 2325262,
+        "amount": 81139253,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-04",
+        "open": 34.41,
+        "high": 34.93,
+        "low": 33.1,
+        "close": 33.72,
+        "volume": 2471596,
+        "amount": 83337983,
+        "is_mock": true
+      }
+    ],
+    "current_price": 36.24
+  },
+  {
+    "code": "6038747",
+    "name": "消费股8747",
+    "industry": "消费",
+    "market": "SH",
+    "is_fallback": true,
+    "historical_data": [
+      {
+        "date": "2025-04-28",
+        "open": 46.17,
+        "high": 46.37,
+        "low": 45.22,
+        "close": 45.87,
+        "volume": 2776975,
+        "amount": 127388141,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-25",
+        "open": 46.42,
+        "high": 46.66,
+        "low": 45.39,
+        "close": 46.38,
+        "volume": 2206033,
+        "amount": 102325719,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-24",
+        "open": 44.49,
+        "high": 46.22,
+        "low": 44.35,
+        "close": 45.03,
+        "volume": 2402755,
+        "amount": 108192105,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-23",
+        "open": 46.3,
+        "high": 46.52,
+        "low": 45.4,
+        "close": 45.63,
+        "volume": 2924625,
+        "amount": 133454684,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-22",
+        "open": 44.4,
+        "high": 45.94,
+        "low": 44.37,
+        "close": 45.1,
+        "volume": 1673925,
+        "amount": 75489221,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-21",
+        "open": 46.64,
+        "high": 47.26,
+        "low": 46.02,
+        "close": 47.19,
+        "volume": 2507878,
+        "amount": 118339817,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-18",
+        "open": 44.7,
+        "high": 45.58,
+        "low": 44.25,
+        "close": 44.72,
+        "volume": 1748200,
+        "amount": 78174778,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-17",
+        "open": 43.58,
+        "high": 45.28,
+        "low": 43.5,
+        "close": 44.03,
+        "volume": 2543809,
+        "amount": 112016000,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-16",
+        "open": 45.79,
+        "high": 46.95,
+        "low": 45.09,
+        "close": 45.35,
+        "volume": 1727292,
+        "amount": 78338013,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-15",
+        "open": 44.03,
+        "high": 45.08,
+        "low": 43.61,
+        "close": 44.94,
+        "volume": 1879579,
+        "amount": 84475548,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-14",
+        "open": 46.01,
+        "high": 47.71,
+        "low": 45.88,
+        "close": 47.35,
+        "volume": 2105836,
+        "amount": 99721443,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-11",
+        "open": 43.71,
+        "high": 45.11,
+        "low": 43.29,
+        "close": 43.89,
+        "volume": 1701511,
+        "amount": 74686505,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-10",
+        "open": 43.3,
+        "high": 45.05,
+        "low": 42.93,
+        "close": 45.03,
+        "volume": 1999597,
+        "amount": 90040517,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-09",
+        "open": 44.48,
+        "high": 46.17,
+        "low": 44.31,
+        "close": 44.64,
+        "volume": 1901237,
+        "amount": 84873184,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-08",
+        "open": 44.17,
+        "high": 44.55,
+        "low": 43.19,
+        "close": 43.25,
+        "volume": 2419994,
+        "amount": 104675455,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-07",
+        "open": 45.18,
+        "high": 46.68,
+        "low": 44.42,
+        "close": 45.56,
+        "volume": 1781925,
+        "amount": 81184025,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-04",
+        "open": 47.48,
+        "high": 48.53,
+        "low": 46.41,
+        "close": 47.76,
+        "volume": 1818948,
+        "amount": 86881826,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-03",
+        "open": 47.01,
+        "high": 48.23,
+        "low": 46.39,
+        "close": 48.03,
+        "volume": 2088434,
+        "amount": 100305333,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-02",
+        "open": 45.31,
+        "high": 45.62,
+        "low": 43.96,
+        "close": 44.79,
+        "volume": 1905495,
+        "amount": 85348133,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-01",
+        "open": 44.83,
+        "high": 46.37,
+        "low": 44.59,
+        "close": 44.69,
+        "volume": 2208973,
+        "amount": 98720207,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-31",
+        "open": 46.16,
+        "high": 46.63,
+        "low": 45.57,
+        "close": 45.66,
+        "volume": 2330912,
+        "amount": 106428918,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-28",
+        "open": 44.39,
+        "high": 45.78,
+        "low": 43.71,
+        "close": 45.21,
+        "volume": 2456911,
+        "amount": 111077362,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-27",
+        "open": 45.94,
+        "high": 46.44,
+        "low": 44.74,
+        "close": 45.84,
+        "volume": 1871858,
+        "amount": 85800373,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-26",
+        "open": 45.52,
+        "high": 46.44,
+        "low": 44.31,
+        "close": 44.43,
+        "volume": 1580420,
+        "amount": 70220805,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-25",
+        "open": 45.26,
+        "high": 46.25,
+        "low": 44.64,
+        "close": 45.3,
+        "volume": 2323365,
+        "amount": 105239331,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-24",
+        "open": 46.21,
+        "high": 47.26,
+        "low": 45.66,
+        "close": 46.77,
+        "volume": 2104964,
+        "amount": 98440412,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-21",
+        "open": 47.26,
+        "high": 48.74,
+        "low": 46.83,
+        "close": 48.39,
+        "volume": 1390164,
+        "amount": 67273932,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-20",
+        "open": 46.51,
+        "high": 47.43,
+        "low": 45.41,
+        "close": 46.15,
+        "volume": 1785504,
+        "amount": 82405381,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-19",
+        "open": 49.07,
+        "high": 49.37,
+        "low": 47.41,
+        "close": 48.39,
+        "volume": 1595914,
+        "amount": 77219026,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-18",
+        "open": 46.85,
+        "high": 47.44,
+        "low": 45.95,
+        "close": 46.84,
+        "volume": 2646950,
+        "amount": 123982342,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-17",
+        "open": 49.0,
+        "high": 49.06,
+        "low": 46.93,
+        "close": 47.51,
+        "volume": 1745086,
+        "amount": 82917675,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-14",
+        "open": 49.32,
+        "high": 49.41,
+        "low": 46.82,
+        "close": 46.94,
+        "volume": 2397373,
+        "amount": 112529993,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-13",
+        "open": 48.46,
+        "high": 48.77,
+        "low": 45.99,
+        "close": 46.14,
+        "volume": 2581880,
+        "amount": 119128557,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-12",
+        "open": 48.43,
+        "high": 49.87,
+        "low": 47.72,
+        "close": 47.95,
+        "volume": 1723114,
+        "amount": 82616274,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-11",
+        "open": 47.36,
+        "high": 48.58,
+        "low": 47.19,
+        "close": 47.71,
+        "volume": 2385127,
+        "amount": 113788099,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-10",
+        "open": 47.57,
+        "high": 48.83,
+        "low": 47.26,
+        "close": 48.17,
+        "volume": 3025394,
+        "amount": 145720185,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-07",
+        "open": 47.2,
+        "high": 48.88,
+        "low": 46.57,
+        "close": 48.26,
+        "volume": 2662442,
+        "amount": 128480918,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-06",
+        "open": 47.72,
+        "high": 49.69,
+        "low": 47.38,
+        "close": 48.55,
+        "volume": 1890263,
+        "amount": 91779245,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-05",
+        "open": 50.39,
+        "high": 50.6,
+        "low": 48.71,
+        "close": 50.14,
+        "volume": 1913931,
+        "amount": 95967892,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-04",
+        "open": 49.63,
+        "high": 50.14,
+        "low": 48.0,
+        "close": 49.05,
+        "volume": 1277180,
+        "amount": 62641964,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-03",
+        "open": 48.3,
+        "high": 49.07,
+        "low": 47.78,
+        "close": 48.54,
+        "volume": 2554383,
+        "amount": 123978016,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-28",
+        "open": 50.22,
+        "high": 51.32,
+        "low": 48.83,
+        "close": 50.48,
+        "volume": 2174399,
+        "amount": 109762902,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-27",
+        "open": 49.0,
+        "high": 50.31,
+        "low": 48.69,
+        "close": 48.86,
+        "volume": 2037670,
+        "amount": 99551073,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-26",
+        "open": 49.34,
+        "high": 51.22,
+        "low": 48.98,
+        "close": 49.15,
+        "volume": 1649385,
+        "amount": 81062338,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-25",
+        "open": 48.46,
+        "high": 49.61,
+        "low": 47.7,
+        "close": 48.05,
+        "volume": 1243554,
+        "amount": 59754218,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-24",
+        "open": 50.16,
+        "high": 50.83,
+        "low": 48.23,
+        "close": 49.55,
+        "volume": 1421812,
+        "amount": 70454746,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-21",
+        "open": 49.91,
+        "high": 50.92,
+        "low": 49.24,
+        "close": 49.63,
+        "volume": 3044255,
+        "amount": 151071503,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-20",
+        "open": 49.87,
+        "high": 50.54,
+        "low": 48.52,
+        "close": 49.74,
+        "volume": 2020191,
+        "amount": 100490907,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-19",
+        "open": 49.64,
+        "high": 49.77,
+        "low": 48.48,
+        "close": 49.3,
+        "volume": 2063906,
+        "amount": 101748667,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-18",
+        "open": 48.3,
+        "high": 49.73,
+        "low": 47.98,
+        "close": 48.45,
+        "volume": 1835652,
+        "amount": 88932545,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-17",
+        "open": 47.56,
+        "high": 48.53,
+        "low": 47.33,
+        "close": 47.83,
+        "volume": 2250745,
+        "amount": 107652736,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-14",
+        "open": 49.39,
+        "high": 50.11,
+        "low": 47.77,
+        "close": 49.36,
+        "volume": 1216583,
+        "amount": 60050490,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-13",
+        "open": 48.54,
+        "high": 48.75,
+        "low": 47.27,
+        "close": 48.05,
+        "volume": 2401504,
+        "amount": 115393460,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-12",
+        "open": 49.36,
+        "high": 50.12,
+        "low": 48.07,
+        "close": 48.61,
+        "volume": 2506229,
+        "amount": 121835775,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-11",
+        "open": 47.01,
+        "high": 48.89,
+        "low": 46.52,
+        "close": 48.27,
+        "volume": 2701888,
+        "amount": 130427592,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-10",
+        "open": 48.08,
+        "high": 49.29,
+        "low": 46.7,
+        "close": 46.79,
+        "volume": 2168469,
+        "amount": 101455325,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-07",
+        "open": 47.43,
+        "high": 49.9,
+        "low": 47.18,
+        "close": 47.86,
+        "volume": 2096794,
+        "amount": 100356216,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-06",
+        "open": 47.54,
+        "high": 49.03,
+        "low": 47.49,
+        "close": 48.24,
+        "volume": 2023574,
+        "amount": 97619416,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-05",
+        "open": 47.68,
+        "high": 48.67,
+        "low": 47.1,
+        "close": 47.91,
+        "volume": 1611436,
+        "amount": 77203292,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-04",
+        "open": 46.72,
+        "high": 48.72,
+        "low": 46.48,
+        "close": 48.08,
+        "volume": 1687637,
+        "amount": 81146961,
+        "is_mock": true
+      }
+    ],
+    "current_price": 45.87
+  },
+  {
+    "code": "6003201",
+    "name": "通信股3201",
+    "industry": "通信",
+    "market": "SH",
+    "is_fallback": true,
+    "historical_data": [
+      {
+        "date": "2025-04-28",
+        "open": 20.88,
+        "high": 21.43,
+        "low": 20.64,
+        "close": 21.08,
+        "volume": 2684302,
+        "amount": 56581824,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-25",
+        "open": 21.23,
+        "high": 21.29,
+        "low": 20.65,
+        "close": 21.02,
+        "volume": 5837523,
+        "amount": 122726947,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-24",
+        "open": 20.85,
+        "high": 21.25,
+        "low": 20.56,
+        "close": 20.65,
+        "volume": 3544243,
+        "amount": 73202525,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-23",
+        "open": 21.07,
+        "high": 21.62,
+        "low": 20.76,
+        "close": 21.5,
+        "volume": 3508245,
+        "amount": 75426993,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-22",
+        "open": 21.28,
+        "high": 21.43,
+        "low": 20.33,
+        "close": 20.86,
+        "volume": 3488714,
+        "amount": 72764028,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-21",
+        "open": 20.45,
+        "high": 21.32,
+        "low": 20.4,
+        "close": 20.61,
+        "volume": 2791028,
+        "amount": 57531241,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-18",
+        "open": 21.48,
+        "high": 21.63,
+        "low": 21.03,
+        "close": 21.42,
+        "volume": 3797332,
+        "amount": 81356273,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-17",
+        "open": 21.43,
+        "high": 21.51,
+        "low": 20.34,
+        "close": 21.19,
+        "volume": 3640097,
+        "amount": 77140555,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-16",
+        "open": 20.85,
+        "high": 21.41,
+        "low": 20.37,
+        "close": 20.87,
+        "volume": 3465530,
+        "amount": 72339420,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-15",
+        "open": 21.44,
+        "high": 21.67,
+        "low": 20.64,
+        "close": 20.67,
+        "volume": 2597399,
+        "amount": 53690695,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-14",
+        "open": 21.1,
+        "high": 21.34,
+        "low": 20.7,
+        "close": 21.23,
+        "volume": 2680423,
+        "amount": 56908536,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-11",
+        "open": 21.11,
+        "high": 21.56,
+        "low": 20.62,
+        "close": 21.18,
+        "volume": 3189859,
+        "amount": 67572715,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-10",
+        "open": 21.17,
+        "high": 21.76,
+        "low": 20.6,
+        "close": 21.08,
+        "volume": 4348191,
+        "amount": 91650857,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-09",
+        "open": 21.19,
+        "high": 21.38,
+        "low": 20.45,
+        "close": 20.82,
+        "volume": 2657430,
+        "amount": 55320884,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-08",
+        "open": 21.63,
+        "high": 21.73,
+        "low": 20.8,
+        "close": 20.83,
+        "volume": 1905301,
+        "amount": 39678648,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-07",
+        "open": 21.18,
+        "high": 21.4,
+        "low": 20.85,
+        "close": 21.39,
+        "volume": 2229452,
+        "amount": 47691928,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-04",
+        "open": 21.05,
+        "high": 21.38,
+        "low": 20.41,
+        "close": 21.25,
+        "volume": 3484420,
+        "amount": 74059570,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-03",
+        "open": 20.96,
+        "high": 21.29,
+        "low": 20.5,
+        "close": 20.73,
+        "volume": 3050959,
+        "amount": 63244710,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-02",
+        "open": 20.86,
+        "high": 21.36,
+        "low": 20.35,
+        "close": 20.66,
+        "volume": 3316829,
+        "amount": 68529008,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-01",
+        "open": 21.38,
+        "high": 21.8,
+        "low": 20.98,
+        "close": 21.22,
+        "volume": 2166974,
+        "amount": 45993599,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-31",
+        "open": 20.72,
+        "high": 21.43,
+        "low": 20.39,
+        "close": 20.72,
+        "volume": 3682886,
+        "amount": 76315486,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-28",
+        "open": 21.16,
+        "high": 21.55,
+        "low": 20.67,
+        "close": 21.06,
+        "volume": 3549432,
+        "amount": 74745245,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-27",
+        "open": 21.16,
+        "high": 21.29,
+        "low": 20.55,
+        "close": 21.22,
+        "volume": 2770979,
+        "amount": 58788447,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-26",
+        "open": 20.76,
+        "high": 21.26,
+        "low": 20.58,
+        "close": 20.8,
+        "volume": 3219919,
+        "amount": 66968401,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-25",
+        "open": 21.19,
+        "high": 21.58,
+        "low": 20.66,
+        "close": 20.66,
+        "volume": 3040192,
+        "amount": 62823241,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-24",
+        "open": 21.12,
+        "high": 21.17,
+        "low": 20.49,
+        "close": 20.67,
+        "volume": 2791531,
+        "amount": 57709629,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-21",
+        "open": 20.78,
+        "high": 21.13,
+        "low": 20.19,
+        "close": 20.39,
+        "volume": 2219504,
+        "amount": 45260401,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-20",
+        "open": 20.4,
+        "high": 21.34,
+        "low": 20.18,
+        "close": 20.21,
+        "volume": 2068206,
+        "amount": 41804536,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-19",
+        "open": 20.68,
+        "high": 21.53,
+        "low": 20.62,
+        "close": 21.09,
+        "volume": 2599651,
+        "amount": 54830102,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-18",
+        "open": 20.4,
+        "high": 21.13,
+        "low": 20.22,
+        "close": 20.49,
+        "volume": 2060733,
+        "amount": 42228257,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-17",
+        "open": 21.15,
+        "high": 21.74,
+        "low": 20.79,
+        "close": 21.1,
+        "volume": 4011932,
+        "amount": 84671531,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-14",
+        "open": 20.48,
+        "high": 21.1,
+        "low": 20.41,
+        "close": 21.01,
+        "volume": 2893322,
+        "amount": 60799955,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-13",
+        "open": 21.12,
+        "high": 21.82,
+        "low": 21.03,
+        "close": 21.18,
+        "volume": 3039979,
+        "amount": 64388752,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-12",
+        "open": 21.08,
+        "high": 21.64,
+        "low": 20.58,
+        "close": 20.65,
+        "volume": 1984868,
+        "amount": 40984310,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-11",
+        "open": 20.89,
+        "high": 21.14,
+        "low": 20.17,
+        "close": 21.05,
+        "volume": 4268662,
+        "amount": 89857540,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-10",
+        "open": 21.01,
+        "high": 21.34,
+        "low": 20.62,
+        "close": 21.09,
+        "volume": 2723108,
+        "amount": 57425519,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-07",
+        "open": 20.77,
+        "high": 21.08,
+        "low": 20.35,
+        "close": 20.92,
+        "volume": 2244201,
+        "amount": 46956917,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-06",
+        "open": 21.35,
+        "high": 21.56,
+        "low": 20.76,
+        "close": 21.05,
+        "volume": 2211445,
+        "amount": 46554201,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-05",
+        "open": 21.38,
+        "high": 21.61,
+        "low": 20.68,
+        "close": 20.72,
+        "volume": 3061468,
+        "amount": 63418921,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-04",
+        "open": 20.44,
+        "high": 21.22,
+        "low": 20.37,
+        "close": 20.68,
+        "volume": 3650900,
+        "amount": 75509137,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-03",
+        "open": 20.84,
+        "high": 21.33,
+        "low": 20.57,
+        "close": 21.26,
+        "volume": 2294914,
+        "amount": 48791053,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-28",
+        "open": 20.49,
+        "high": 21.27,
+        "low": 20.45,
+        "close": 20.83,
+        "volume": 4339403,
+        "amount": 90391489,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-27",
+        "open": 20.6,
+        "high": 21.46,
+        "low": 20.52,
+        "close": 21.17,
+        "volume": 2710167,
+        "amount": 57375909,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-26",
+        "open": 20.54,
+        "high": 21.14,
+        "low": 20.51,
+        "close": 20.92,
+        "volume": 3020613,
+        "amount": 63186352,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-25",
+        "open": 21.21,
+        "high": 21.49,
+        "low": 20.79,
+        "close": 21.11,
+        "volume": 3063591,
+        "amount": 64687421,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-24",
+        "open": 20.88,
+        "high": 21.46,
+        "low": 20.82,
+        "close": 20.97,
+        "volume": 3338525,
+        "amount": 70017936,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-21",
+        "open": 21.56,
+        "high": 21.85,
+        "low": 20.83,
+        "close": 21.43,
+        "volume": 2085741,
+        "amount": 44704649,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-20",
+        "open": 20.88,
+        "high": 21.34,
+        "low": 20.46,
+        "close": 21.2,
+        "volume": 3204967,
+        "amount": 67937696,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-19",
+        "open": 21.22,
+        "high": 21.38,
+        "low": 20.9,
+        "close": 21.17,
+        "volume": 3080132,
+        "amount": 65207750,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-18",
+        "open": 20.77,
+        "high": 21.12,
+        "low": 20.53,
+        "close": 20.85,
+        "volume": 2559685,
+        "amount": 53367380,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-17",
+        "open": 20.83,
+        "high": 21.49,
+        "low": 20.72,
+        "close": 20.87,
+        "volume": 2604090,
+        "amount": 54336449,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-14",
+        "open": 21.07,
+        "high": 21.26,
+        "low": 20.71,
+        "close": 20.78,
+        "volume": 4244249,
+        "amount": 88188743,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-13",
+        "open": 20.5,
+        "high": 20.98,
+        "low": 20.18,
+        "close": 20.87,
+        "volume": 2814273,
+        "amount": 58742223,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-12",
+        "open": 21.33,
+        "high": 21.8,
+        "low": 21.01,
+        "close": 21.58,
+        "volume": 2709047,
+        "amount": 58473342,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-11",
+        "open": 20.7,
+        "high": 21.03,
+        "low": 20.46,
+        "close": 20.58,
+        "volume": 1908163,
+        "amount": 39274732,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-10",
+        "open": 20.6,
+        "high": 21.18,
+        "low": 20.38,
+        "close": 20.74,
+        "volume": 4473341,
+        "amount": 92784034,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-07",
+        "open": 20.64,
+        "high": 21.18,
+        "low": 20.42,
+        "close": 20.43,
+        "volume": 4003513,
+        "amount": 81789241,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-06",
+        "open": 20.93,
+        "high": 21.41,
+        "low": 20.73,
+        "close": 21.2,
+        "volume": 2745209,
+        "amount": 58211699,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-05",
+        "open": 20.87,
+        "high": 21.37,
+        "low": 20.54,
+        "close": 21.36,
+        "volume": 2491864,
+        "amount": 53220387,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-04",
+        "open": 21.1,
+        "high": 21.41,
+        "low": 20.29,
+        "close": 20.63,
+        "volume": 4739363,
+        "amount": 97753099,
+        "is_mock": true
+      }
+    ],
+    "current_price": 21.08
+  },
+  {
+    "code": "6017898",
+    "name": "能源股7898",
+    "industry": "能源",
+    "market": "SH",
+    "is_fallback": true,
+    "historical_data": [
+      {
+        "date": "2025-04-28",
+        "open": 67.36,
+        "high": 70.63,
+        "low": 67.05,
+        "close": 68.64,
+        "volume": 2026982,
+        "amount": 139126438,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-25",
+        "open": 69.27,
+        "high": 71.05,
+        "low": 68.77,
+        "close": 69.07,
+        "volume": 966728,
+        "amount": 66768334,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-24",
+        "open": 67.26,
+        "high": 70.43,
+        "low": 66.84,
+        "close": 66.86,
+        "volume": 924089,
+        "amount": 61786249,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-23",
+        "open": 71.91,
+        "high": 72.66,
+        "low": 70.36,
+        "close": 71.97,
+        "volume": 1697413,
+        "amount": 122169518,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-22",
+        "open": 70.56,
+        "high": 70.94,
+        "low": 67.1,
+        "close": 70.27,
+        "volume": 1601487,
+        "amount": 112542145,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-21",
+        "open": 70.52,
+        "high": 71.08,
+        "low": 69.27,
+        "close": 69.99,
+        "volume": 901602,
+        "amount": 63104524,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-18",
+        "open": 70.23,
+        "high": 72.36,
+        "low": 69.62,
+        "close": 71.19,
+        "volume": 764128,
+        "amount": 54399839,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-17",
+        "open": 68.19,
+        "high": 69.27,
+        "low": 66.68,
+        "close": 68.22,
+        "volume": 1459587,
+        "amount": 99571075,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-16",
+        "open": 69.24,
+        "high": 72.05,
+        "low": 68.34,
+        "close": 70.72,
+        "volume": 1362319,
+        "amount": 96336586,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-15",
+        "open": 69.27,
+        "high": 72.07,
+        "low": 68.15,
+        "close": 69.5,
+        "volume": 812088,
+        "amount": 56443087,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-14",
+        "open": 72.83,
+        "high": 73.36,
+        "low": 69.83,
+        "close": 71.32,
+        "volume": 861897,
+        "amount": 61471330,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-11",
+        "open": 76.69,
+        "high": 79.74,
+        "low": 76.03,
+        "close": 76.11,
+        "volume": 967171,
+        "amount": 73610943,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-10",
+        "open": 70.14,
+        "high": 72.92,
+        "low": 69.96,
+        "close": 71.13,
+        "volume": 1329361,
+        "amount": 94552008,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-09",
+        "open": 71.38,
+        "high": 74.08,
+        "low": 71.03,
+        "close": 72.41,
+        "volume": 1610454,
+        "amount": 116614862,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-08",
+        "open": 72.59,
+        "high": 73.6,
+        "low": 70.26,
+        "close": 70.66,
+        "volume": 1098728,
+        "amount": 77641255,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-07",
+        "open": 77.83,
+        "high": 79.52,
+        "low": 77.38,
+        "close": 78.48,
+        "volume": 1330168,
+        "amount": 104392311,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-04",
+        "open": 71.78,
+        "high": 73.35,
+        "low": 70.68,
+        "close": 71.34,
+        "volume": 1443153,
+        "amount": 102959387,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-03",
+        "open": 71.42,
+        "high": 71.81,
+        "low": 68.44,
+        "close": 71.23,
+        "volume": 951804,
+        "amount": 67801646,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-02",
+        "open": 72.41,
+        "high": 74.28,
+        "low": 71.95,
+        "close": 73.67,
+        "volume": 1026516,
+        "amount": 75618419,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-01",
+        "open": 73.5,
+        "high": 74.35,
+        "low": 71.01,
+        "close": 71.59,
+        "volume": 1529021,
+        "amount": 109456697,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-31",
+        "open": 73.31,
+        "high": 74.59,
+        "low": 71.5,
+        "close": 74.36,
+        "volume": 1106118,
+        "amount": 82252441,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-28",
+        "open": 72.83,
+        "high": 73.45,
+        "low": 70.59,
+        "close": 72.57,
+        "volume": 959702,
+        "amount": 69646209,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-27",
+        "open": 74.76,
+        "high": 75.65,
+        "low": 72.14,
+        "close": 74.98,
+        "volume": 1009437,
+        "amount": 75689927,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-26",
+        "open": 72.22,
+        "high": 72.5,
+        "low": 69.55,
+        "close": 71.68,
+        "volume": 891007,
+        "amount": 63865335,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-25",
+        "open": 71.11,
+        "high": 74.46,
+        "low": 70.5,
+        "close": 74.41,
+        "volume": 933341,
+        "amount": 69446091,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-24",
+        "open": 73.14,
+        "high": 75.87,
+        "low": 72.81,
+        "close": 74.71,
+        "volume": 1416901,
+        "amount": 105860567,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-21",
+        "open": 74.39,
+        "high": 74.74,
+        "low": 72.21,
+        "close": 74.26,
+        "volume": 812883,
+        "amount": 60364119,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-20",
+        "open": 71.25,
+        "high": 72.93,
+        "low": 69.96,
+        "close": 71.92,
+        "volume": 1356607,
+        "amount": 97566349,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-19",
+        "open": 73.8,
+        "high": 76.27,
+        "low": 72.96,
+        "close": 73.28,
+        "volume": 909756,
+        "amount": 66670910,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-18",
+        "open": 70.57,
+        "high": 74.02,
+        "low": 70.01,
+        "close": 71.67,
+        "volume": 761210,
+        "amount": 54556980,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-17",
+        "open": 75.97,
+        "high": 77.16,
+        "low": 73.06,
+        "close": 73.53,
+        "volume": 1332386,
+        "amount": 97966608,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-14",
+        "open": 74.29,
+        "high": 75.81,
+        "low": 73.96,
+        "close": 74.18,
+        "volume": 1246298,
+        "amount": 92446354,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-13",
+        "open": 73.09,
+        "high": 74.62,
+        "low": 72.3,
+        "close": 72.62,
+        "volume": 1225116,
+        "amount": 88961988,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-12",
+        "open": 74.93,
+        "high": 76.33,
+        "low": 72.68,
+        "close": 73.1,
+        "volume": 1011744,
+        "amount": 73959809,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-11",
+        "open": 73.53,
+        "high": 76.76,
+        "low": 73.32,
+        "close": 75.96,
+        "volume": 840304,
+        "amount": 63829573,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-10",
+        "open": 75.03,
+        "high": 76.89,
+        "low": 72.99,
+        "close": 73.64,
+        "volume": 1072667,
+        "amount": 78990122,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-07",
+        "open": 76.09,
+        "high": 76.71,
+        "low": 73.33,
+        "close": 76.5,
+        "volume": 1155850,
+        "amount": 88417781,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-06",
+        "open": 73.48,
+        "high": 75.47,
+        "low": 72.46,
+        "close": 74.81,
+        "volume": 1330431,
+        "amount": 99534967,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-05",
+        "open": 74.41,
+        "high": 74.74,
+        "low": 71.55,
+        "close": 74.12,
+        "volume": 753071,
+        "amount": 55820058,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-04",
+        "open": 75.94,
+        "high": 76.61,
+        "low": 73.17,
+        "close": 74.29,
+        "volume": 1072733,
+        "amount": 79694459,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-03",
+        "open": 77.53,
+        "high": 77.87,
+        "low": 74.07,
+        "close": 76.62,
+        "volume": 860039,
+        "amount": 65896947,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-28",
+        "open": 77.29,
+        "high": 78.46,
+        "low": 74.88,
+        "close": 75.04,
+        "volume": 1268469,
+        "amount": 95182356,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-27",
+        "open": 75.8,
+        "high": 77.49,
+        "low": 74.16,
+        "close": 76.26,
+        "volume": 847672,
+        "amount": 64644300,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-26",
+        "open": 75.83,
+        "high": 76.25,
+        "low": 73.78,
+        "close": 76.15,
+        "volume": 1157198,
+        "amount": 88125207,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-25",
+        "open": 76.47,
+        "high": 78.63,
+        "low": 76.15,
+        "close": 76.64,
+        "volume": 1002138,
+        "amount": 76806487,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-24",
+        "open": 75.41,
+        "high": 77.44,
+        "low": 74.79,
+        "close": 75.81,
+        "volume": 633047,
+        "amount": 47988797,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-21",
+        "open": 74.79,
+        "high": 77.39,
+        "low": 73.89,
+        "close": 74.96,
+        "volume": 1177712,
+        "amount": 88278898,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-20",
+        "open": 78.43,
+        "high": 78.63,
+        "low": 74.85,
+        "close": 78.37,
+        "volume": 1304365,
+        "amount": 102227414,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-19",
+        "open": 75.97,
+        "high": 76.15,
+        "low": 72.89,
+        "close": 75.69,
+        "volume": 936849,
+        "amount": 70912759,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-18",
+        "open": 74.65,
+        "high": 77.37,
+        "low": 73.72,
+        "close": 74.5,
+        "volume": 1318248,
+        "amount": 98203000,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-17",
+        "open": 77.86,
+        "high": 78.27,
+        "low": 75.82,
+        "close": 76.11,
+        "volume": 1146375,
+        "amount": 87249816,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-14",
+        "open": 76.92,
+        "high": 79.05,
+        "low": 76.2,
+        "close": 78.17,
+        "volume": 1278567,
+        "amount": 99947467,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-13",
+        "open": 75.78,
+        "high": 77.61,
+        "low": 73.86,
+        "close": 76.07,
+        "volume": 1099747,
+        "amount": 83661285,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-12",
+        "open": 78.31,
+        "high": 78.97,
+        "low": 76.05,
+        "close": 78.7,
+        "volume": 1225057,
+        "amount": 96407806,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-11",
+        "open": 75.77,
+        "high": 77.68,
+        "low": 74.53,
+        "close": 77.6,
+        "volume": 839004,
+        "amount": 65106407,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-10",
+        "open": 75.28,
+        "high": 77.24,
+        "low": 74.93,
+        "close": 75.94,
+        "volume": 906498,
+        "amount": 68837835,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-07",
+        "open": 74.96,
+        "high": 78.78,
+        "low": 74.54,
+        "close": 78.41,
+        "volume": 920066,
+        "amount": 72138132,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-06",
+        "open": 75.48,
+        "high": 78.55,
+        "low": 75.05,
+        "close": 75.74,
+        "volume": 980126,
+        "amount": 74231177,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-05",
+        "open": 74.94,
+        "high": 77.9,
+        "low": 74.25,
+        "close": 76.41,
+        "volume": 1059440,
+        "amount": 80951812,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-04",
+        "open": 77.47,
+        "high": 78.11,
+        "low": 75.43,
+        "close": 77.59,
+        "volume": 1243341,
+        "amount": 96467241,
+        "is_mock": true
+      }
+    ],
+    "current_price": 68.64
+  },
+  {
+    "code": "0028694",
+    "name": "通信股8694",
+    "industry": "通信",
+    "market": "SZ",
+    "is_fallback": true,
+    "historical_data": [
+      {
+        "date": "2025-04-28",
+        "open": 84.77,
+        "high": 85.93,
+        "low": 81.59,
+        "close": 83.08,
+        "volume": 3397734,
+        "amount": 282299092,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-25",
+        "open": 83.82,
+        "high": 85.58,
+        "low": 81.75,
+        "close": 85.3,
+        "volume": 3466484,
+        "amount": 295705790,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-24",
+        "open": 80.81,
+        "high": 82.42,
+        "low": 78.93,
+        "close": 80.96,
+        "volume": 3102175,
+        "amount": 251166206,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-23",
+        "open": 79.93,
+        "high": 80.65,
+        "low": 78.17,
+        "close": 78.52,
+        "volume": 2998677,
+        "amount": 235452657,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-22",
+        "open": 77.81,
+        "high": 79.86,
+        "low": 76.86,
+        "close": 79.1,
+        "volume": 2265361,
+        "amount": 179180246,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-21",
+        "open": 78.25,
+        "high": 80.21,
+        "low": 77.1,
+        "close": 77.8,
+        "volume": 2585980,
+        "amount": 201200671,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-18",
+        "open": 78.53,
+        "high": 79.67,
+        "low": 75.97,
+        "close": 77.13,
+        "volume": 2395881,
+        "amount": 184798608,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-17",
+        "open": 74.86,
+        "high": 76.93,
+        "low": 74.7,
+        "close": 76.6,
+        "volume": 2537323,
+        "amount": 194347783,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-16",
+        "open": 74.19,
+        "high": 74.84,
+        "low": 71.49,
+        "close": 74.68,
+        "volume": 2313652,
+        "amount": 172778617,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-15",
+        "open": 74.28,
+        "high": 74.44,
+        "low": 72.33,
+        "close": 73.37,
+        "volume": 1600130,
+        "amount": 117405139,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-14",
+        "open": 72.01,
+        "high": 75.21,
+        "low": 71.83,
+        "close": 72.19,
+        "volume": 1680383,
+        "amount": 121301386,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-11",
+        "open": 72.59,
+        "high": 72.96,
+        "low": 69.99,
+        "close": 70.31,
+        "volume": 2843711,
+        "amount": 199931344,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-10",
+        "open": 74.32,
+        "high": 76.28,
+        "low": 72.56,
+        "close": 73.62,
+        "volume": 2110155,
+        "amount": 155356091,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-09",
+        "open": 71.21,
+        "high": 73.95,
+        "low": 70.36,
+        "close": 70.36,
+        "volume": 2614601,
+        "amount": 183962493,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-08",
+        "open": 66.75,
+        "high": 69.15,
+        "low": 66.65,
+        "close": 69.07,
+        "volume": 1909254,
+        "amount": 131863333,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-07",
+        "open": 72.25,
+        "high": 76.07,
+        "low": 72.24,
+        "close": 75.14,
+        "volume": 1743625,
+        "amount": 131020022,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-04",
+        "open": 65.76,
+        "high": 67.88,
+        "low": 65.46,
+        "close": 67.06,
+        "volume": 2697492,
+        "amount": 180900631,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-03",
+        "open": 68.64,
+        "high": 69.19,
+        "low": 65.66,
+        "close": 65.93,
+        "volume": 2401665,
+        "amount": 158349528,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-02",
+        "open": 65.64,
+        "high": 68.03,
+        "low": 64.99,
+        "close": 65.52,
+        "volume": 1391737,
+        "amount": 91179773,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-01",
+        "open": 66.53,
+        "high": 66.66,
+        "low": 64.39,
+        "close": 66.16,
+        "volume": 2011079,
+        "amount": 133060345,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-31",
+        "open": 65.09,
+        "high": 66.76,
+        "low": 63.54,
+        "close": 66.24,
+        "volume": 1473220,
+        "amount": 97592304,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-28",
+        "open": 63.6,
+        "high": 67.1,
+        "low": 63.4,
+        "close": 66.58,
+        "volume": 1873266,
+        "amount": 124714092,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-27",
+        "open": 64.28,
+        "high": 66.22,
+        "low": 63.26,
+        "close": 63.62,
+        "volume": 1585094,
+        "amount": 100849785,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-26",
+        "open": 65.31,
+        "high": 66.9,
+        "low": 64.78,
+        "close": 66.32,
+        "volume": 1917479,
+        "amount": 127169070,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-25",
+        "open": 65.65,
+        "high": 69.05,
+        "low": 65.47,
+        "close": 66.9,
+        "volume": 2497006,
+        "amount": 167043127,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-24",
+        "open": 66.84,
+        "high": 67.76,
+        "low": 65.82,
+        "close": 67.49,
+        "volume": 2015920,
+        "amount": 136051405,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-21",
+        "open": 67.52,
+        "high": 70.55,
+        "low": 67.16,
+        "close": 69.68,
+        "volume": 2605222,
+        "amount": 181520263,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-20",
+        "open": 69.46,
+        "high": 70.09,
+        "low": 68.07,
+        "close": 68.64,
+        "volume": 2596748,
+        "amount": 178228927,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-19",
+        "open": 69.5,
+        "high": 71.52,
+        "low": 68.82,
+        "close": 70.19,
+        "volume": 1777531,
+        "amount": 124763912,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-18",
+        "open": 70.79,
+        "high": 73.33,
+        "low": 69.84,
+        "close": 70.97,
+        "volume": 2192656,
+        "amount": 155622037,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-17",
+        "open": 71.29,
+        "high": 72.76,
+        "low": 69.87,
+        "close": 72.63,
+        "volume": 2909563,
+        "amount": 211313517,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-14",
+        "open": 72.16,
+        "high": 72.18,
+        "low": 69.18,
+        "close": 70.54,
+        "volume": 2257617,
+        "amount": 159243480,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-13",
+        "open": 73.14,
+        "high": 75.48,
+        "low": 72.73,
+        "close": 74.85,
+        "volume": 1767745,
+        "amount": 132308442,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-12",
+        "open": 74.57,
+        "high": 75.11,
+        "low": 72.69,
+        "close": 73.75,
+        "volume": 1502399,
+        "amount": 110807823,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-11",
+        "open": 73.14,
+        "high": 75.32,
+        "low": 71.63,
+        "close": 73.1,
+        "volume": 1783855,
+        "amount": 130402934,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-10",
+        "open": 74.29,
+        "high": 74.87,
+        "low": 72.68,
+        "close": 74.61,
+        "volume": 2083350,
+        "amount": 155440151,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-07",
+        "open": 78.22,
+        "high": 79.01,
+        "low": 75.33,
+        "close": 77.56,
+        "volume": 1397097,
+        "amount": 108358923,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-06",
+        "open": 77.26,
+        "high": 77.75,
+        "low": 75.22,
+        "close": 75.93,
+        "volume": 2685420,
+        "amount": 203910093,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-05",
+        "open": 77.85,
+        "high": 79.37,
+        "low": 76.47,
+        "close": 77.42,
+        "volume": 1387840,
+        "amount": 107448785,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-04",
+        "open": 77.32,
+        "high": 79.74,
+        "low": 77.18,
+        "close": 78.52,
+        "volume": 2207526,
+        "amount": 173326838,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-03",
+        "open": 79.5,
+        "high": 81.61,
+        "low": 79.02,
+        "close": 81.28,
+        "volume": 2414670,
+        "amount": 196255347,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-28",
+        "open": 81.89,
+        "high": 83.89,
+        "low": 79.89,
+        "close": 80.65,
+        "volume": 1445822,
+        "amount": 116606232,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-27",
+        "open": 82.74,
+        "high": 83.24,
+        "low": 80.38,
+        "close": 82.02,
+        "volume": 1999414,
+        "amount": 163984757,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-26",
+        "open": 79.16,
+        "high": 81.17,
+        "low": 77.89,
+        "close": 80.23,
+        "volume": 2711841,
+        "amount": 217559307,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-25",
+        "open": 81.19,
+        "high": 82.09,
+        "low": 79.91,
+        "close": 81.52,
+        "volume": 1425515,
+        "amount": 116208317,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-24",
+        "open": 79.81,
+        "high": 81.26,
+        "low": 78.12,
+        "close": 78.84,
+        "volume": 1953112,
+        "amount": 153981963,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-21",
+        "open": 82.68,
+        "high": 83.32,
+        "low": 80.21,
+        "close": 82.13,
+        "volume": 2384072,
+        "amount": 195800357,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-20",
+        "open": 80.03,
+        "high": 81.09,
+        "low": 78.69,
+        "close": 80.23,
+        "volume": 1553780,
+        "amount": 124663676,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-19",
+        "open": 82.38,
+        "high": 82.97,
+        "low": 80.17,
+        "close": 81.49,
+        "volume": 2130452,
+        "amount": 173615039,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-18",
+        "open": 80.58,
+        "high": 83.89,
+        "low": 80.55,
+        "close": 83.29,
+        "volume": 2329153,
+        "amount": 193999890,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-17",
+        "open": 80.0,
+        "high": 81.24,
+        "low": 79.05,
+        "close": 79.29,
+        "volume": 2362069,
+        "amount": 187293194,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-14",
+        "open": 79.51,
+        "high": 79.84,
+        "low": 78.09,
+        "close": 78.91,
+        "volume": 2013834,
+        "amount": 158907005,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-13",
+        "open": 79.73,
+        "high": 80.78,
+        "low": 77.84,
+        "close": 78.11,
+        "volume": 2356139,
+        "amount": 184035094,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-12",
+        "open": 77.86,
+        "high": 79.08,
+        "low": 77.18,
+        "close": 78.58,
+        "volume": 2246241,
+        "amount": 176520484,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-11",
+        "open": 79.52,
+        "high": 80.29,
+        "low": 76.8,
+        "close": 79.57,
+        "volume": 1840356,
+        "amount": 146444066,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-10",
+        "open": 75.56,
+        "high": 78.4,
+        "low": 75.46,
+        "close": 77.16,
+        "volume": 2467044,
+        "amount": 190349182,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-07",
+        "open": 75.77,
+        "high": 77.29,
+        "low": 74.17,
+        "close": 74.68,
+        "volume": 3009252,
+        "amount": 224719077,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-06",
+        "open": 77.49,
+        "high": 78.22,
+        "low": 75.48,
+        "close": 77.32,
+        "volume": 2659395,
+        "amount": 205622335,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-05",
+        "open": 73.43,
+        "high": 74.65,
+        "low": 71.09,
+        "close": 72.93,
+        "volume": 1851948,
+        "amount": 135060303,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-04",
+        "open": 74.16,
+        "high": 75.38,
+        "low": 72.97,
+        "close": 74.17,
+        "volume": 2017398,
+        "amount": 149637814,
+        "is_mock": true
+      }
+    ],
+    "current_price": 83.08
+  },
+  {
+    "code": "6888435",
+    "name": "科技股8435",
+    "industry": "科技",
+    "market": "SH",
+    "is_fallback": true,
+    "historical_data": [
+      {
+        "date": "2025-04-28",
+        "open": 51.11,
+        "high": 51.56,
+        "low": 50.05,
+        "close": 50.98,
+        "volume": 2941489,
+        "amount": 149970928,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-25",
+        "open": 50.29,
+        "high": 50.66,
+        "low": 49.28,
+        "close": 50.62,
+        "volume": 2337030,
+        "amount": 118302426,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-24",
+        "open": 48.79,
+        "high": 51.28,
+        "low": 48.66,
+        "close": 50.37,
+        "volume": 2684034,
+        "amount": 135183788,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-23",
+        "open": 49.21,
+        "high": 50.28,
+        "low": 48.46,
+        "close": 49.31,
+        "volume": 1594391,
+        "amount": 78614603,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-22",
+        "open": 47.56,
+        "high": 49.84,
+        "low": 47.55,
+        "close": 49.2,
+        "volume": 1645484,
+        "amount": 80953986,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-21",
+        "open": 48.69,
+        "high": 49.7,
+        "low": 47.37,
+        "close": 49.66,
+        "volume": 983834,
+        "amount": 48854957,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-18",
+        "open": 49.7,
+        "high": 50.22,
+        "low": 48.21,
+        "close": 50.07,
+        "volume": 885700,
+        "amount": 44344927,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-17",
+        "open": 55.2,
+        "high": 55.71,
+        "low": 53.93,
+        "close": 54.2,
+        "volume": 1452469,
+        "amount": 78716838,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-16",
+        "open": 55.2,
+        "high": 55.87,
+        "low": 53.85,
+        "close": 54.66,
+        "volume": 1300727,
+        "amount": 71099642,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-15",
+        "open": 49.62,
+        "high": 51.11,
+        "low": 49.59,
+        "close": 51.1,
+        "volume": 1838732,
+        "amount": 93959521,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-14",
+        "open": 55.23,
+        "high": 55.71,
+        "low": 54.12,
+        "close": 54.98,
+        "volume": 1296957,
+        "amount": 71309338,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-11",
+        "open": 48.75,
+        "high": 50.5,
+        "low": 47.83,
+        "close": 48.26,
+        "volume": 1493785,
+        "amount": 72097503,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-10",
+        "open": 50.69,
+        "high": 50.86,
+        "low": 49.37,
+        "close": 50.52,
+        "volume": 885539,
+        "amount": 44736097,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-09",
+        "open": 49.59,
+        "high": 49.76,
+        "low": 48.44,
+        "close": 49.6,
+        "volume": 837651,
+        "amount": 41545754,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-08",
+        "open": 54.1,
+        "high": 57.11,
+        "low": 54.01,
+        "close": 56.75,
+        "volume": 1370105,
+        "amount": 77751401,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-07",
+        "open": 50.92,
+        "high": 52.0,
+        "low": 50.41,
+        "close": 51.49,
+        "volume": 1059603,
+        "amount": 54561301,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-04",
+        "open": 55.48,
+        "high": 55.72,
+        "low": 53.63,
+        "close": 54.05,
+        "volume": 1317842,
+        "amount": 71224988,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-03",
+        "open": 48.81,
+        "high": 50.78,
+        "low": 48.56,
+        "close": 49.81,
+        "volume": 959284,
+        "amount": 47781837,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-02",
+        "open": 51.53,
+        "high": 52.21,
+        "low": 50.42,
+        "close": 51.85,
+        "volume": 1725571,
+        "amount": 89466708,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-01",
+        "open": 49.86,
+        "high": 51.16,
+        "low": 49.08,
+        "close": 50.33,
+        "volume": 1540671,
+        "amount": 77538400,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-31",
+        "open": 51.33,
+        "high": 52.52,
+        "low": 49.84,
+        "close": 52.14,
+        "volume": 1581565,
+        "amount": 82466319,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-28",
+        "open": 52.66,
+        "high": 52.67,
+        "low": 49.85,
+        "close": 52.31,
+        "volume": 1318393,
+        "amount": 68963520,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-27",
+        "open": 52.39,
+        "high": 52.61,
+        "low": 49.74,
+        "close": 52.05,
+        "volume": 1157324,
+        "amount": 60239291,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-26",
+        "open": 52.03,
+        "high": 52.64,
+        "low": 50.67,
+        "close": 50.7,
+        "volume": 1341684,
+        "amount": 68021399,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-25",
+        "open": 51.81,
+        "high": 51.86,
+        "low": 49.63,
+        "close": 49.95,
+        "volume": 1480123,
+        "amount": 73927753,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-24",
+        "open": 50.4,
+        "high": 50.97,
+        "low": 49.28,
+        "close": 50.65,
+        "volume": 1178609,
+        "amount": 59697896,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-21",
+        "open": 51.31,
+        "high": 51.82,
+        "low": 50.44,
+        "close": 50.96,
+        "volume": 1054129,
+        "amount": 53722875,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-20",
+        "open": 51.52,
+        "high": 51.94,
+        "low": 50.06,
+        "close": 50.17,
+        "volume": 760601,
+        "amount": 38155819,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-19",
+        "open": 52.17,
+        "high": 53.76,
+        "low": 51.76,
+        "close": 53.44,
+        "volume": 1305720,
+        "amount": 69782089,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-18",
+        "open": 51.63,
+        "high": 52.69,
+        "low": 50.14,
+        "close": 50.98,
+        "volume": 1355917,
+        "amount": 69123098,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-17",
+        "open": 50.21,
+        "high": 51.51,
+        "low": 49.86,
+        "close": 50.4,
+        "volume": 1059423,
+        "amount": 53392986,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-14",
+        "open": 51.54,
+        "high": 52.39,
+        "low": 51.06,
+        "close": 51.72,
+        "volume": 1485965,
+        "amount": 76848691,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-13",
+        "open": 50.61,
+        "high": 51.75,
+        "low": 49.65,
+        "close": 49.84,
+        "volume": 993871,
+        "amount": 49532136,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-12",
+        "open": 51.26,
+        "high": 52.39,
+        "low": 50.45,
+        "close": 52.09,
+        "volume": 1557680,
+        "amount": 81131887,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-11",
+        "open": 52.06,
+        "high": 54.23,
+        "low": 51.6,
+        "close": 52.31,
+        "volume": 919709,
+        "amount": 48110502,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-10",
+        "open": 51.12,
+        "high": 52.08,
+        "low": 50.2,
+        "close": 50.83,
+        "volume": 1167598,
+        "amount": 59344519,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-07",
+        "open": 51.66,
+        "high": 52.22,
+        "low": 50.71,
+        "close": 51.95,
+        "volume": 1769284,
+        "amount": 91908924,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-06",
+        "open": 53.12,
+        "high": 53.76,
+        "low": 51.25,
+        "close": 51.27,
+        "volume": 1222059,
+        "amount": 62658448,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-05",
+        "open": 51.32,
+        "high": 53.64,
+        "low": 51.09,
+        "close": 53.28,
+        "volume": 1630677,
+        "amount": 86882874,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-04",
+        "open": 53.47,
+        "high": 53.92,
+        "low": 52.52,
+        "close": 52.55,
+        "volume": 1629987,
+        "amount": 85661327,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-03",
+        "open": 54.62,
+        "high": 54.97,
+        "low": 52.5,
+        "close": 52.83,
+        "volume": 1098287,
+        "amount": 58020438,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-28",
+        "open": 53.88,
+        "high": 54.7,
+        "low": 52.38,
+        "close": 54.37,
+        "volume": 1382229,
+        "amount": 75153433,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-27",
+        "open": 52.19,
+        "high": 54.1,
+        "low": 51.49,
+        "close": 53.23,
+        "volume": 1437959,
+        "amount": 76544032,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-26",
+        "open": 53.57,
+        "high": 54.13,
+        "low": 52.69,
+        "close": 53.11,
+        "volume": 1530948,
+        "amount": 81308789,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-25",
+        "open": 53.06,
+        "high": 54.74,
+        "low": 52.6,
+        "close": 53.66,
+        "volume": 1666285,
+        "amount": 89409802,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-24",
+        "open": 54.12,
+        "high": 54.56,
+        "low": 52.73,
+        "close": 53.9,
+        "volume": 1615170,
+        "amount": 87051626,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-21",
+        "open": 54.16,
+        "high": 56.23,
+        "low": 53.51,
+        "close": 54.42,
+        "volume": 863529,
+        "amount": 46991135,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-20",
+        "open": 54.34,
+        "high": 54.99,
+        "low": 53.56,
+        "close": 53.9,
+        "volume": 1680797,
+        "amount": 90595536,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-19",
+        "open": 52.47,
+        "high": 54.62,
+        "low": 52.09,
+        "close": 52.55,
+        "volume": 1121316,
+        "amount": 58920224,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-18",
+        "open": 54.33,
+        "high": 54.76,
+        "low": 51.87,
+        "close": 52.94,
+        "volume": 1369946,
+        "amount": 72527616,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-17",
+        "open": 54.54,
+        "high": 55.14,
+        "low": 53.72,
+        "close": 53.99,
+        "volume": 1430106,
+        "amount": 77217362,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-14",
+        "open": 54.15,
+        "high": 54.25,
+        "low": 51.98,
+        "close": 53.79,
+        "volume": 1349745,
+        "amount": 72602188,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-13",
+        "open": 55.18,
+        "high": 55.38,
+        "low": 53.78,
+        "close": 54.74,
+        "volume": 1415819,
+        "amount": 77503345,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-12",
+        "open": 53.46,
+        "high": 54.85,
+        "low": 53.39,
+        "close": 54.25,
+        "volume": 1003064,
+        "amount": 54418657,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-11",
+        "open": 55.49,
+        "high": 55.93,
+        "low": 53.57,
+        "close": 55.29,
+        "volume": 1319452,
+        "amount": 72954081,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-10",
+        "open": 53.84,
+        "high": 55.25,
+        "low": 52.99,
+        "close": 53.0,
+        "volume": 1476798,
+        "amount": 78263795,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-07",
+        "open": 53.84,
+        "high": 55.56,
+        "low": 53.84,
+        "close": 55.07,
+        "volume": 896651,
+        "amount": 49380001,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-06",
+        "open": 53.98,
+        "high": 55.22,
+        "low": 53.15,
+        "close": 53.23,
+        "volume": 1375202,
+        "amount": 73200918,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-05",
+        "open": 54.93,
+        "high": 57.33,
+        "low": 54.1,
+        "close": 55.75,
+        "volume": 1541904,
+        "amount": 85953844,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-04",
+        "open": 54.53,
+        "high": 56.26,
+        "low": 53.99,
+        "close": 55.38,
+        "volume": 1205789,
+        "amount": 66780826,
+        "is_mock": true
+      }
+    ],
+    "current_price": 50.98
+  },
+  {
+    "code": "6032645",
+    "name": "医疗股2645",
+    "industry": "医疗",
+    "market": "SH",
+    "is_fallback": true,
+    "historical_data": [
+      {
+        "date": "2025-04-28",
+        "open": 27.66,
+        "high": 28.46,
+        "low": 27.26,
+        "close": 28.06,
+        "volume": 6538902,
+        "amount": 183465173,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-25",
+        "open": 27.99,
+        "high": 28.77,
+        "low": 27.75,
+        "close": 28.6,
+        "volume": 7272334,
+        "amount": 208014579,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-24",
+        "open": 27.15,
+        "high": 27.48,
+        "low": 26.83,
+        "close": 27.05,
+        "volume": 3797575,
+        "amount": 102723044,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-23",
+        "open": 26.67,
+        "high": 26.97,
+        "low": 25.94,
+        "close": 26.61,
+        "volume": 5895148,
+        "amount": 156844817,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-22",
+        "open": 26.97,
+        "high": 27.24,
+        "low": 26.46,
+        "close": 26.53,
+        "volume": 4644279,
+        "amount": 123196109,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-21",
+        "open": 25.86,
+        "high": 26.61,
+        "low": 25.76,
+        "close": 26.11,
+        "volume": 4572765,
+        "amount": 119410648,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-18",
+        "open": 26.9,
+        "high": 26.91,
+        "low": 25.51,
+        "close": 25.9,
+        "volume": 5195594,
+        "amount": 134551183,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-17",
+        "open": 24.47,
+        "high": 25.14,
+        "low": 24.31,
+        "close": 24.36,
+        "volume": 3912268,
+        "amount": 95319291,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-16",
+        "open": 24.93,
+        "high": 25.97,
+        "low": 24.86,
+        "close": 25.2,
+        "volume": 5444035,
+        "amount": 137185673,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-15",
+        "open": 24.67,
+        "high": 25.46,
+        "low": 24.51,
+        "close": 25.2,
+        "volume": 4792850,
+        "amount": 120802168,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-14",
+        "open": 24.43,
+        "high": 24.82,
+        "low": 23.97,
+        "close": 24.03,
+        "volume": 5921956,
+        "amount": 142299883,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-11",
+        "open": 24.37,
+        "high": 24.96,
+        "low": 24.0,
+        "close": 24.03,
+        "volume": 6300475,
+        "amount": 151415646,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-10",
+        "open": 24.19,
+        "high": 25.29,
+        "low": 24.17,
+        "close": 25.23,
+        "volume": 4725256,
+        "amount": 119209162,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-09",
+        "open": 25.55,
+        "high": 25.57,
+        "low": 24.9,
+        "close": 25.33,
+        "volume": 3728855,
+        "amount": 94455785,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-08",
+        "open": 23.97,
+        "high": 24.16,
+        "low": 23.3,
+        "close": 24.14,
+        "volume": 4987773,
+        "amount": 120420564,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-07",
+        "open": 23.3,
+        "high": 23.92,
+        "low": 23.23,
+        "close": 23.55,
+        "volume": 3868995,
+        "amount": 91119852,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-04",
+        "open": 25.12,
+        "high": 25.7,
+        "low": 24.88,
+        "close": 25.03,
+        "volume": 4839069,
+        "amount": 121135070,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-03",
+        "open": 25.14,
+        "high": 25.21,
+        "low": 24.53,
+        "close": 24.95,
+        "volume": 3964881,
+        "amount": 98911683,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-02",
+        "open": 22.61,
+        "high": 23.41,
+        "low": 22.44,
+        "close": 22.81,
+        "volume": 5484409,
+        "amount": 125098555,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-01",
+        "open": 21.93,
+        "high": 22.38,
+        "low": 21.31,
+        "close": 21.98,
+        "volume": 6329432,
+        "amount": 139133579,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-31",
+        "open": 22.63,
+        "high": 23.19,
+        "low": 22.34,
+        "close": 22.7,
+        "volume": 3959984,
+        "amount": 89890657,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-28",
+        "open": 21.87,
+        "high": 22.24,
+        "low": 21.33,
+        "close": 22.11,
+        "volume": 4136825,
+        "amount": 91446852,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-27",
+        "open": 21.44,
+        "high": 22.18,
+        "low": 21.41,
+        "close": 21.72,
+        "volume": 3959215,
+        "amount": 86013351,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-26",
+        "open": 21.71,
+        "high": 22.75,
+        "low": 21.71,
+        "close": 22.52,
+        "volume": 3365001,
+        "amount": 75793175,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-25",
+        "open": 22.51,
+        "high": 22.66,
+        "low": 21.93,
+        "close": 21.94,
+        "volume": 5918134,
+        "amount": 129855406,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-24",
+        "open": 23.45,
+        "high": 23.52,
+        "low": 22.68,
+        "close": 22.99,
+        "volume": 4796062,
+        "amount": 110251555,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-21",
+        "open": 22.28,
+        "high": 23.19,
+        "low": 22.15,
+        "close": 22.81,
+        "volume": 3945898,
+        "amount": 90020301,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-20",
+        "open": 22.66,
+        "high": 22.78,
+        "low": 22.15,
+        "close": 22.76,
+        "volume": 4757015,
+        "amount": 108290691,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-19",
+        "open": 24.19,
+        "high": 24.36,
+        "low": 23.36,
+        "close": 23.6,
+        "volume": 6406208,
+        "amount": 151174137,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-18",
+        "open": 23.31,
+        "high": 23.83,
+        "low": 23.15,
+        "close": 23.48,
+        "volume": 3008830,
+        "amount": 70659691,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-17",
+        "open": 23.84,
+        "high": 24.7,
+        "low": 23.79,
+        "close": 24.27,
+        "volume": 5824892,
+        "amount": 141367276,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-14",
+        "open": 23.49,
+        "high": 24.01,
+        "low": 23.07,
+        "close": 23.24,
+        "volume": 3634309,
+        "amount": 84464353,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-13",
+        "open": 24.09,
+        "high": 24.62,
+        "low": 23.87,
+        "close": 24.3,
+        "volume": 4148109,
+        "amount": 100790937,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-12",
+        "open": 24.92,
+        "high": 25.27,
+        "low": 24.55,
+        "close": 24.88,
+        "volume": 4994898,
+        "amount": 124251230,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-11",
+        "open": 24.17,
+        "high": 24.98,
+        "low": 23.66,
+        "close": 24.9,
+        "volume": 3971526,
+        "amount": 98894862,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-10",
+        "open": 24.66,
+        "high": 25.18,
+        "low": 24.56,
+        "close": 24.68,
+        "volume": 5963234,
+        "amount": 147174386,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-07",
+        "open": 25.18,
+        "high": 26.25,
+        "low": 24.77,
+        "close": 25.99,
+        "volume": 4110363,
+        "amount": 106844797,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-06",
+        "open": 26.79,
+        "high": 27.38,
+        "low": 26.29,
+        "close": 26.57,
+        "volume": 6621983,
+        "amount": 175956029,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-05",
+        "open": 26.12,
+        "high": 26.52,
+        "low": 25.71,
+        "close": 25.76,
+        "volume": 3546681,
+        "amount": 91363100,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-04",
+        "open": 25.87,
+        "high": 26.84,
+        "low": 25.59,
+        "close": 26.8,
+        "volume": 2969453,
+        "amount": 79585078,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-03",
+        "open": 25.36,
+        "high": 26.67,
+        "low": 25.34,
+        "close": 26.47,
+        "volume": 5388985,
+        "amount": 142635724,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-28",
+        "open": 26.59,
+        "high": 27.43,
+        "low": 26.16,
+        "close": 26.88,
+        "volume": 4295364,
+        "amount": 115468272,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-27",
+        "open": 26.34,
+        "high": 26.9,
+        "low": 26.01,
+        "close": 26.27,
+        "volume": 4455408,
+        "amount": 117056119,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-26",
+        "open": 26.44,
+        "high": 27.3,
+        "low": 26.27,
+        "close": 27.11,
+        "volume": 3825344,
+        "amount": 103688387,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-25",
+        "open": 26.98,
+        "high": 27.04,
+        "low": 25.99,
+        "close": 26.26,
+        "volume": 4792642,
+        "amount": 125831048,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-24",
+        "open": 28.15,
+        "high": 28.31,
+        "low": 27.5,
+        "close": 27.84,
+        "volume": 3535749,
+        "amount": 98449049,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-21",
+        "open": 27.14,
+        "high": 27.92,
+        "low": 26.61,
+        "close": 27.49,
+        "volume": 4413671,
+        "amount": 121320860,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-20",
+        "open": 27.73,
+        "high": 28.85,
+        "low": 27.73,
+        "close": 28.19,
+        "volume": 4431642,
+        "amount": 124947819,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-19",
+        "open": 27.39,
+        "high": 27.63,
+        "low": 26.33,
+        "close": 27.38,
+        "volume": 5047656,
+        "amount": 138182029,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-18",
+        "open": 27.47,
+        "high": 27.95,
+        "low": 26.87,
+        "close": 27.45,
+        "volume": 2928002,
+        "amount": 80380765,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-17",
+        "open": 27.12,
+        "high": 27.8,
+        "low": 26.88,
+        "close": 27.62,
+        "volume": 5089983,
+        "amount": 140569807,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-14",
+        "open": 26.68,
+        "high": 27.51,
+        "low": 26.47,
+        "close": 26.98,
+        "volume": 4861804,
+        "amount": 131168439,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-13",
+        "open": 26.94,
+        "high": 27.4,
+        "low": 25.95,
+        "close": 26.02,
+        "volume": 2982542,
+        "amount": 77610017,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-12",
+        "open": 27.57,
+        "high": 27.67,
+        "low": 26.71,
+        "close": 27.33,
+        "volume": 5006209,
+        "amount": 136797591,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-11",
+        "open": 26.29,
+        "high": 26.9,
+        "low": 25.76,
+        "close": 26.13,
+        "volume": 5853103,
+        "amount": 152961091,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-10",
+        "open": 25.77,
+        "high": 26.15,
+        "low": 25.42,
+        "close": 26.01,
+        "volume": 4189999,
+        "amount": 108985110,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-07",
+        "open": 25.94,
+        "high": 26.37,
+        "low": 25.7,
+        "close": 25.9,
+        "volume": 6193034,
+        "amount": 160401580,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-06",
+        "open": 25.31,
+        "high": 25.5,
+        "low": 24.83,
+        "close": 25.19,
+        "volume": 3555393,
+        "amount": 89561711,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-05",
+        "open": 25.57,
+        "high": 25.64,
+        "low": 24.97,
+        "close": 25.29,
+        "volume": 3487747,
+        "amount": 88205189,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-04",
+        "open": 24.38,
+        "high": 24.91,
+        "low": 24.14,
+        "close": 24.85,
+        "volume": 3666923,
+        "amount": 91111290,
+        "is_mock": true
+      }
+    ],
+    "current_price": 28.06
+  },
+  {
+    "code": "6008804",
+    "name": "能源股8804",
+    "industry": "能源",
+    "market": "SH",
+    "is_fallback": true,
+    "historical_data": [
+      {
+        "date": "2025-04-28",
+        "open": 22.15,
+        "high": 22.17,
+        "low": 21.37,
+        "close": 21.99,
+        "volume": 7005836,
+        "amount": 154052978,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-25",
+        "open": 21.37,
+        "high": 22.32,
+        "low": 21.37,
+        "close": 22.06,
+        "volume": 6636409,
+        "amount": 146427175,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-24",
+        "open": 21.9,
+        "high": 22.15,
+        "low": 21.52,
+        "close": 21.95,
+        "volume": 6157886,
+        "amount": 135162740,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-23",
+        "open": 21.45,
+        "high": 21.68,
+        "low": 20.47,
+        "close": 20.79,
+        "volume": 2400319,
+        "amount": 49898035,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-22",
+        "open": 21.43,
+        "high": 22.2,
+        "low": 21.37,
+        "close": 21.9,
+        "volume": 4025746,
+        "amount": 88154946,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-21",
+        "open": 24.01,
+        "high": 24.45,
+        "low": 23.24,
+        "close": 23.44,
+        "volume": 3232090,
+        "amount": 75771743,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-18",
+        "open": 23.91,
+        "high": 24.0,
+        "low": 23.48,
+        "close": 23.92,
+        "volume": 3860012,
+        "amount": 92347083,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-17",
+        "open": 23.79,
+        "high": 24.16,
+        "low": 23.26,
+        "close": 23.94,
+        "volume": 3658424,
+        "amount": 87587385,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-16",
+        "open": 20.74,
+        "high": 21.61,
+        "low": 20.56,
+        "close": 21.23,
+        "volume": 3183543,
+        "amount": 67592757,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-15",
+        "open": 23.5,
+        "high": 24.02,
+        "low": 23.43,
+        "close": 23.66,
+        "volume": 3233094,
+        "amount": 76495503,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-14",
+        "open": 20.77,
+        "high": 21.91,
+        "low": 20.65,
+        "close": 21.3,
+        "volume": 2953548,
+        "amount": 62920479,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-11",
+        "open": 21.55,
+        "high": 21.94,
+        "low": 21.19,
+        "close": 21.66,
+        "volume": 2584731,
+        "amount": 55991567,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-10",
+        "open": 22.18,
+        "high": 22.45,
+        "low": 21.73,
+        "close": 22.37,
+        "volume": 3372613,
+        "amount": 75451693,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-09",
+        "open": 21.63,
+        "high": 21.96,
+        "low": 21.26,
+        "close": 21.51,
+        "volume": 2809186,
+        "amount": 60424237,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-08",
+        "open": 21.61,
+        "high": 21.75,
+        "low": 21.16,
+        "close": 21.7,
+        "volume": 3394019,
+        "amount": 73635992,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-07",
+        "open": 24.79,
+        "high": 24.95,
+        "low": 24.02,
+        "close": 24.88,
+        "volume": 2603028,
+        "amount": 64765430,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-04",
+        "open": 22.38,
+        "high": 22.9,
+        "low": 21.88,
+        "close": 22.77,
+        "volume": 2338167,
+        "amount": 53234911,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-03",
+        "open": 23.86,
+        "high": 24.25,
+        "low": 23.58,
+        "close": 24.24,
+        "volume": 3110703,
+        "amount": 75415323,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-02",
+        "open": 21.97,
+        "high": 22.7,
+        "low": 21.85,
+        "close": 22.38,
+        "volume": 2704074,
+        "amount": 60523858,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-01",
+        "open": 21.72,
+        "high": 22.6,
+        "low": 21.67,
+        "close": 21.99,
+        "volume": 3817634,
+        "amount": 83962552,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-31",
+        "open": 22.34,
+        "high": 22.35,
+        "low": 21.54,
+        "close": 21.65,
+        "volume": 4281754,
+        "amount": 92706409,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-28",
+        "open": 22.53,
+        "high": 22.99,
+        "low": 21.95,
+        "close": 22.46,
+        "volume": 4245780,
+        "amount": 95374686,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-27",
+        "open": 22.05,
+        "high": 22.53,
+        "low": 21.77,
+        "close": 22.48,
+        "volume": 2323466,
+        "amount": 52224947,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-26",
+        "open": 22.35,
+        "high": 22.83,
+        "low": 22.13,
+        "close": 22.82,
+        "volume": 4660172,
+        "amount": 106345826,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-25",
+        "open": 21.94,
+        "high": 22.92,
+        "low": 21.88,
+        "close": 22.44,
+        "volume": 3667217,
+        "amount": 82277179,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-24",
+        "open": 22.97,
+        "high": 23.01,
+        "low": 22.29,
+        "close": 22.39,
+        "volume": 3454501,
+        "amount": 77332488,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-21",
+        "open": 22.19,
+        "high": 23.03,
+        "low": 22.0,
+        "close": 22.39,
+        "volume": 3510388,
+        "amount": 78599461,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-20",
+        "open": 22.18,
+        "high": 22.75,
+        "low": 21.87,
+        "close": 22.06,
+        "volume": 3678361,
+        "amount": 81160101,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-19",
+        "open": 22.21,
+        "high": 22.99,
+        "low": 22.21,
+        "close": 22.27,
+        "volume": 4045690,
+        "amount": 90088019,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-18",
+        "open": 22.6,
+        "high": 22.61,
+        "low": 21.95,
+        "close": 22.24,
+        "volume": 2650821,
+        "amount": 58967445,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-17",
+        "open": 22.5,
+        "high": 22.51,
+        "low": 21.8,
+        "close": 21.96,
+        "volume": 3591256,
+        "amount": 78879498,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-14",
+        "open": 22.68,
+        "high": 23.1,
+        "low": 22.35,
+        "close": 23.02,
+        "volume": 2944294,
+        "amount": 67765525,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-13",
+        "open": 22.26,
+        "high": 22.76,
+        "low": 21.93,
+        "close": 22.54,
+        "volume": 3375404,
+        "amount": 76082245,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-12",
+        "open": 22.55,
+        "high": 23.3,
+        "low": 22.32,
+        "close": 23.01,
+        "volume": 3104623,
+        "amount": 71440136,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-11",
+        "open": 23.06,
+        "high": 23.68,
+        "low": 22.8,
+        "close": 22.92,
+        "volume": 4686444,
+        "amount": 107422453,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-10",
+        "open": 22.9,
+        "high": 23.24,
+        "low": 22.11,
+        "close": 22.96,
+        "volume": 2224514,
+        "amount": 51083174,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-07",
+        "open": 22.99,
+        "high": 23.67,
+        "low": 22.75,
+        "close": 22.77,
+        "volume": 4349972,
+        "amount": 99068943,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-06",
+        "open": 22.42,
+        "high": 23.04,
+        "low": 22.13,
+        "close": 22.84,
+        "volume": 3634583,
+        "amount": 83016463,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-05",
+        "open": 23.54,
+        "high": 23.93,
+        "low": 22.91,
+        "close": 22.97,
+        "volume": 2430645,
+        "amount": 55834703,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-04",
+        "open": 23.34,
+        "high": 23.57,
+        "low": 22.59,
+        "close": 23.2,
+        "volume": 3946252,
+        "amount": 91570531,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-03",
+        "open": 23.16,
+        "high": 23.29,
+        "low": 22.25,
+        "close": 22.25,
+        "volume": 4726576,
+        "amount": 105173505,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-28",
+        "open": 22.46,
+        "high": 23.18,
+        "low": 22.38,
+        "close": 22.59,
+        "volume": 3170003,
+        "amount": 71616577,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-27",
+        "open": 23.08,
+        "high": 23.73,
+        "low": 22.76,
+        "close": 23.58,
+        "volume": 3011294,
+        "amount": 71006586,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-26",
+        "open": 22.64,
+        "high": 23.26,
+        "low": 22.19,
+        "close": 22.99,
+        "volume": 3895885,
+        "amount": 89564877,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-25",
+        "open": 22.94,
+        "high": 23.49,
+        "low": 22.44,
+        "close": 22.47,
+        "volume": 3740602,
+        "amount": 84042679,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-24",
+        "open": 23.17,
+        "high": 23.45,
+        "low": 22.67,
+        "close": 23.32,
+        "volume": 4755226,
+        "amount": 110909771,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-21",
+        "open": 22.93,
+        "high": 24.0,
+        "low": 22.89,
+        "close": 23.48,
+        "volume": 3913648,
+        "amount": 91893864,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-20",
+        "open": 23.12,
+        "high": 23.84,
+        "low": 23.03,
+        "close": 23.34,
+        "volume": 3955181,
+        "amount": 92330349,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-19",
+        "open": 23.48,
+        "high": 23.78,
+        "low": 22.8,
+        "close": 23.03,
+        "volume": 3483743,
+        "amount": 80215389,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-18",
+        "open": 22.99,
+        "high": 23.86,
+        "low": 22.67,
+        "close": 22.7,
+        "volume": 3403748,
+        "amount": 77260974,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-17",
+        "open": 24.32,
+        "high": 24.39,
+        "low": 23.61,
+        "close": 24.29,
+        "volume": 3072653,
+        "amount": 74626930,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-14",
+        "open": 24.52,
+        "high": 24.71,
+        "low": 23.57,
+        "close": 23.95,
+        "volume": 2739560,
+        "amount": 65618000,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-13",
+        "open": 23.75,
+        "high": 24.28,
+        "low": 23.12,
+        "close": 23.55,
+        "volume": 2738590,
+        "amount": 64481088,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-12",
+        "open": 23.44,
+        "high": 24.04,
+        "low": 23.28,
+        "close": 23.94,
+        "volume": 2479060,
+        "amount": 59346776,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-11",
+        "open": 24.27,
+        "high": 24.52,
+        "low": 23.45,
+        "close": 23.77,
+        "volume": 2165060,
+        "amount": 51460042,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-10",
+        "open": 23.67,
+        "high": 23.86,
+        "low": 23.31,
+        "close": 23.79,
+        "volume": 2325797,
+        "amount": 55329469,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-07",
+        "open": 23.42,
+        "high": 24.02,
+        "low": 22.99,
+        "close": 23.73,
+        "volume": 2842044,
+        "amount": 67452536,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-06",
+        "open": 23.87,
+        "high": 24.46,
+        "low": 23.51,
+        "close": 24.0,
+        "volume": 3774163,
+        "amount": 90594061,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-05",
+        "open": 24.38,
+        "high": 24.58,
+        "low": 23.23,
+        "close": 24.27,
+        "volume": 3373495,
+        "amount": 81879331,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-04",
+        "open": 23.95,
+        "high": 24.17,
+        "low": 23.27,
+        "close": 24.03,
+        "volume": 3067029,
+        "amount": 73688476,
+        "is_mock": true
+      }
+    ],
+    "current_price": 21.99
+  },
+  {
+    "code": "6015908",
+    "name": "工业股5908",
+    "industry": "工业",
+    "market": "SH",
+    "is_fallback": true,
+    "historical_data": [
+      {
+        "date": "2025-04-28",
+        "open": 99.15,
+        "high": 99.41,
+        "low": 95.66,
+        "close": 98.28,
+        "volume": 4711260,
+        "amount": 463009405,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-25",
+        "open": 96.43,
+        "high": 97.2,
+        "low": 93.87,
+        "close": 96.65,
+        "volume": 3177204,
+        "amount": 307088314,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-24",
+        "open": 96.14,
+        "high": 98.42,
+        "low": 93.83,
+        "close": 98.26,
+        "volume": 3472822,
+        "amount": 341253526,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-23",
+        "open": 95.42,
+        "high": 96.79,
+        "low": 93.47,
+        "close": 95.73,
+        "volume": 2442325,
+        "amount": 233801550,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-22",
+        "open": 97.59,
+        "high": 98.27,
+        "low": 93.8,
+        "close": 94.69,
+        "volume": 5660317,
+        "amount": 535975379,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-21",
+        "open": 92.08,
+        "high": 93.87,
+        "low": 89.56,
+        "close": 91.37,
+        "volume": 4024398,
+        "amount": 367706292,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-18",
+        "open": 88.48,
+        "high": 90.19,
+        "low": 88.07,
+        "close": 88.11,
+        "volume": 3709686,
+        "amount": 326866402,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-17",
+        "open": 87.24,
+        "high": 88.97,
+        "low": 85.21,
+        "close": 88.69,
+        "volume": 2131436,
+        "amount": 189042879,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-16",
+        "open": 87.48,
+        "high": 89.66,
+        "low": 86.17,
+        "close": 87.2,
+        "volume": 3984028,
+        "amount": 347410982,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-15",
+        "open": 86.54,
+        "high": 88.76,
+        "low": 85.77,
+        "close": 86.88,
+        "volume": 2223080,
+        "amount": 193147011,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-14",
+        "open": 85.39,
+        "high": 87.12,
+        "low": 84.86,
+        "close": 86.46,
+        "volume": 1901700,
+        "amount": 164427713,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-11",
+        "open": 89.19,
+        "high": 90.33,
+        "low": 86.57,
+        "close": 86.62,
+        "volume": 2871367,
+        "amount": 248703934,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-10",
+        "open": 83.4,
+        "high": 85.88,
+        "low": 83.02,
+        "close": 83.85,
+        "volume": 2888706,
+        "amount": 242229284,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-09",
+        "open": 89.5,
+        "high": 90.99,
+        "low": 87.29,
+        "close": 89.01,
+        "volume": 2271314,
+        "amount": 202179484,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-08",
+        "open": 80.86,
+        "high": 82.43,
+        "low": 77.82,
+        "close": 80.89,
+        "volume": 3181222,
+        "amount": 257314911,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-07",
+        "open": 86.83,
+        "high": 91.03,
+        "low": 86.1,
+        "close": 88.58,
+        "volume": 3977544,
+        "amount": 352322270,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-04",
+        "open": 86.83,
+        "high": 89.71,
+        "low": 86.11,
+        "close": 88.95,
+        "volume": 3275033,
+        "amount": 291330445,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-03",
+        "open": 78.99,
+        "high": 79.4,
+        "low": 75.8,
+        "close": 76.85,
+        "volume": 2651501,
+        "amount": 203778423,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-02",
+        "open": 80.98,
+        "high": 82.19,
+        "low": 80.17,
+        "close": 81.82,
+        "volume": 2021276,
+        "amount": 165372383,
+        "is_mock": true
+      },
+      {
+        "date": "2025-04-01",
+        "open": 81.6,
+        "high": 83.18,
+        "low": 80.09,
+        "close": 82.79,
+        "volume": 2416498,
+        "amount": 200056429,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-31",
+        "open": 79.15,
+        "high": 79.41,
+        "low": 75.44,
+        "close": 78.07,
+        "volume": 3373790,
+        "amount": 263399781,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-28",
+        "open": 79.25,
+        "high": 81.6,
+        "low": 78.11,
+        "close": 78.37,
+        "volume": 3195696,
+        "amount": 250446647,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-27",
+        "open": 80.79,
+        "high": 82.01,
+        "low": 78.63,
+        "close": 78.82,
+        "volume": 3187794,
+        "amount": 251257858,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-26",
+        "open": 81.93,
+        "high": 82.3,
+        "low": 79.12,
+        "close": 80.16,
+        "volume": 3682262,
+        "amount": 295158241,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-25",
+        "open": 79.03,
+        "high": 81.51,
+        "low": 78.6,
+        "close": 79.04,
+        "volume": 3527569,
+        "amount": 278813260,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-24",
+        "open": 77.01,
+        "high": 80.39,
+        "low": 76.35,
+        "close": 79.87,
+        "volume": 3750660,
+        "amount": 299554942,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-21",
+        "open": 83.29,
+        "high": 84.98,
+        "low": 80.84,
+        "close": 83.22,
+        "volume": 2802953,
+        "amount": 233274936,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-20",
+        "open": 81.92,
+        "high": 83.23,
+        "low": 81.05,
+        "close": 82.16,
+        "volume": 2905280,
+        "amount": 238700615,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-19",
+        "open": 83.22,
+        "high": 83.45,
+        "low": 80.73,
+        "close": 83.08,
+        "volume": 4291908,
+        "amount": 356567992,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-18",
+        "open": 78.75,
+        "high": 82.32,
+        "low": 78.69,
+        "close": 80.18,
+        "volume": 2503426,
+        "amount": 200726988,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-17",
+        "open": 83.24,
+        "high": 84.32,
+        "low": 80.77,
+        "close": 83.68,
+        "volume": 2641095,
+        "amount": 221002759,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-14",
+        "open": 87.38,
+        "high": 88.68,
+        "low": 85.93,
+        "close": 87.74,
+        "volume": 3416946,
+        "amount": 299791460,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-13",
+        "open": 85.5,
+        "high": 87.05,
+        "low": 83.9,
+        "close": 85.4,
+        "volume": 2739067,
+        "amount": 233928954,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-12",
+        "open": 88.34,
+        "high": 90.7,
+        "low": 88.1,
+        "close": 90.3,
+        "volume": 2788094,
+        "amount": 251768788,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-11",
+        "open": 84.41,
+        "high": 87.33,
+        "low": 84.28,
+        "close": 84.92,
+        "volume": 2529786,
+        "amount": 214831635,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-10",
+        "open": 87.78,
+        "high": 89.82,
+        "low": 86.24,
+        "close": 89.28,
+        "volume": 2124921,
+        "amount": 189710476,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-07",
+        "open": 92.05,
+        "high": 94.84,
+        "low": 90.95,
+        "close": 92.61,
+        "volume": 3465121,
+        "amount": 320907889,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-06",
+        "open": 89.72,
+        "high": 92.7,
+        "low": 89.06,
+        "close": 92.26,
+        "volume": 2731058,
+        "amount": 251966992,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-05",
+        "open": 92.07,
+        "high": 93.08,
+        "low": 89.04,
+        "close": 89.63,
+        "volume": 3442337,
+        "amount": 308527895,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-04",
+        "open": 93.36,
+        "high": 93.79,
+        "low": 91.44,
+        "close": 91.45,
+        "volume": 3455486,
+        "amount": 316004940,
+        "is_mock": true
+      },
+      {
+        "date": "2025-03-03",
+        "open": 94.82,
+        "high": 95.74,
+        "low": 91.76,
+        "close": 95.08,
+        "volume": 4031726,
+        "amount": 383318909,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-28",
+        "open": 92.83,
+        "high": 95.27,
+        "low": 91.51,
+        "close": 91.72,
+        "volume": 3672015,
+        "amount": 336785978,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-27",
+        "open": 94.29,
+        "high": 96.58,
+        "low": 92.87,
+        "close": 95.72,
+        "volume": 3030759,
+        "amount": 290109290,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-26",
+        "open": 94.89,
+        "high": 96.9,
+        "low": 93.7,
+        "close": 95.93,
+        "volume": 3135796,
+        "amount": 300830320,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-25",
+        "open": 96.83,
+        "high": 99.41,
+        "low": 94.75,
+        "close": 97.64,
+        "volume": 3828613,
+        "amount": 373822101,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-24",
+        "open": 98.13,
+        "high": 99.33,
+        "low": 96.34,
+        "close": 98.95,
+        "volume": 2155479,
+        "amount": 213274324,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-21",
+        "open": 97.92,
+        "high": 98.87,
+        "low": 95.73,
+        "close": 97.33,
+        "volume": 2496194,
+        "amount": 242953743,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-20",
+        "open": 99.36,
+        "high": 101.66,
+        "low": 96.85,
+        "close": 100.78,
+        "volume": 2395264,
+        "amount": 241402779,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-19",
+        "open": 96.72,
+        "high": 101.44,
+        "low": 96.14,
+        "close": 96.95,
+        "volume": 4137103,
+        "amount": 401103529,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-18",
+        "open": 98.46,
+        "high": 98.48,
+        "low": 94.01,
+        "close": 98.36,
+        "volume": 2693070,
+        "amount": 264898193,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-17",
+        "open": 95.21,
+        "high": 97.1,
+        "low": 93.74,
+        "close": 95.01,
+        "volume": 3087889,
+        "amount": 293390100,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-14",
+        "open": 93.82,
+        "high": 95.89,
+        "low": 91.06,
+        "close": 95.43,
+        "volume": 2785734,
+        "amount": 265845718,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-13",
+        "open": 94.0,
+        "high": 95.46,
+        "low": 92.7,
+        "close": 93.38,
+        "volume": 3075974,
+        "amount": 287236862,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-12",
+        "open": 92.64,
+        "high": 93.18,
+        "low": 89.18,
+        "close": 91.91,
+        "volume": 3026161,
+        "amount": 278132797,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-11",
+        "open": 94.52,
+        "high": 95.27,
+        "low": 92.44,
+        "close": 92.51,
+        "volume": 2985534,
+        "amount": 276190758,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-10",
+        "open": 90.35,
+        "high": 91.49,
+        "low": 89.14,
+        "close": 90.75,
+        "volume": 3830325,
+        "amount": 347601644,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-07",
+        "open": 88.19,
+        "high": 91.13,
+        "low": 87.57,
+        "close": 89.3,
+        "volume": 2747754,
+        "amount": 245387559,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-06",
+        "open": 89.13,
+        "high": 91.28,
+        "low": 87.97,
+        "close": 91.21,
+        "volume": 2312029,
+        "amount": 210886546,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-05",
+        "open": 92.96,
+        "high": 93.82,
+        "low": 89.31,
+        "close": 93.34,
+        "volume": 3226828,
+        "amount": 301177236,
+        "is_mock": true
+      },
+      {
+        "date": "2025-02-04",
+        "open": 87.57,
+        "high": 88.52,
+        "low": 86.15,
+        "close": 86.29,
+        "volume": 1908511,
+        "amount": 164684749,
+        "is_mock": true
+      }
+    ],
+    "current_price": 98.28
+  }
+]

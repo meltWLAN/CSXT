@@ -1,80 +1,131 @@
-# 超神量子交易系统 (CSXT)
+# CSXT Quantum Trading System
 
-超神量子交易系统是一个基于量子计算原理的股票交易分析平台，集成了量子算法与传统技术分析，帮助投资者发现市场中的潜在机会。
+一个基于量子计算和机器学习的智能化股票交易系统。
 
 ## 系统特点
 
-- **量子算法选股**: 利用量子计算原理对股市进行多维度分析
-- **实时数据分析**: 通过Tushare API获取A股实时数据
-- **智能股票筛选**: 从3000只股票中筛选最具潜力的30只股票
-- **精准投资周期**: 提供从超短线到长线的精确投资时间建议
-- **深度分析报告**: 为每只推荐股票提供详细的量化分析和投资理由
+- 量子增强的预测模型
+- 自适应特征工程
+- 多维度分析
+- 实时市场情绪分析
+- 智能风险控制
+- 自动化交易执行
 
 ## 主要组件
 
-- **量子核心系统**: 负责数据处理和量子算法实现
-- **超神量子评分**: 多维度评分系统，综合技术面、基本面和量子增强分析
-- **投资组合优化**: 自动生成最优投资组合配置
-- **风险控制系统**: 实时评估和管理投资风险
-- **可视化界面**: 用户友好的桌面应用界面
+1. **量子核心系统**
+   - 量子特征提取
+   - 量子态预测
+   - 量子优化算法
+
+2. **预测模型**
+   - 深度学习模型
+   - 集成学习
+   - 自适应优化
+
+3. **特征工程**
+   - 技术指标
+   - 市场情绪
+   - 多维度分析
+   - 量子特征
+
+4. **风险控制**
+   - 实时风险监控
+   - 自适应止损
+   - 仓位管理
+
+5. **回测系统**
+   - 历史数据模拟
+   - 性能评估
+   - 策略优化
+
+## 安装要求
+
+- Python 3.8+
+- PyTorch 1.8+
+- pandas
+- numpy
+- scikit-learn
+- TA-Lib
+- qiskit (用于量子计算)
 
 ## 快速开始
 
-### 系统要求
-
-- Python 3.8+
-- PyQt5
-- 其他依赖请参见requirements.txt
-
-### 安装
-
-1. 克隆本仓库:
+1. 克隆仓库：
 ```bash
-git clone https://github.com/meltWLAN/CSXT.git
+git clone https://github.com/yourusername/CSXT.git
 cd CSXT
 ```
 
-2. 安装依赖:
+2. 安装依赖：
 ```bash
 pip install -r requirements.txt
 ```
 
-### 运行
-
-启动桌面版应用:
+3. 运行系统：
 ```bash
 cd QTS
 python launch_quantum_core.py --mode desktop
 ```
 
-## 使用指南
+## 配置说明
 
-1. **设置量子能力**: 通过滑块调整量子计算能力(10-100)
-2. **选择市场范围**: 可选择"全市场"、"沪深300"、"中证500"等
-3. **选择行业**: 可过滤特定行业股票
-4. **开始超神选股**: 系统将分析当前市场并推荐30只潜力股票
-5. **查看详细分析**: 点击任意推荐股票查看详细分析报告
+系统配置文件位于 `QTS/config/` 目录下：
+- `config.json`: 主配置文件
+- `quantum_config.json`: 量子模块配置
+- `model_config.json`: 模型配置
+- `trading_config.json`: 交易配置
 
-## 系统架构
+## 使用说明
 
+1. **数据获取**
+```python
+from quantum_core.data_manager import get_stock_data_manager
+
+# 初始化数据管理器
+data_manager = get_stock_data_manager()
+
+# 获取股票数据
+data = data_manager.get_stock_data("600000.SH")
 ```
-CSXT/
-├── QTS/                       # 主项目代码
-│   ├── quantum_core/         # 量子核心算法
-│   ├── quantum_desktop/      # 桌面应用界面
-│   ├── models/               # 数据模型
-│   ├── utils/                # 工具函数
-│   └── launch_quantum_core.py # 启动程序
+
+2. **预测模型**
+```python
+from quantum_core.models import EnhancedPredictor
+
+# 创建预测模型
+predictor = EnhancedPredictor()
+
+# 训练模型
+predictor.fit(X_train, y_train)
+
+# 预测
+predictions = predictor.predict(X_test)
 ```
 
-## 更新日志
+3. **回测分析**
+```python
+from quantum_core.backtest import BacktestFramework
 
-### 版本 1.0.0 (2025-04-16)
-- 初始版本发布
-- 支持3000只股票的综合分析
-- 实现多维度量子评分系统
-- 精确投资周期推荐功能
+# 创建回测框架
+backtest = BacktestFramework()
+
+# 运行回测
+results = backtest.run(strategy, data)
+```
+
+## 开发计划
+
+- [ ] 增强量子特征工程
+- [ ] 优化预测模型性能
+- [ ] 添加更多技术指标
+- [ ] 改进风险控制系统
+- [ ] 优化回测框架
+
+## 贡献指南
+
+欢迎提交 Pull Request 或创建 Issue。
 
 ## 许可证
 
-本项目采用 MIT 许可证 
+本项目采用 MIT 许可证。详见 [LICENSE](LICENSE) 文件。 

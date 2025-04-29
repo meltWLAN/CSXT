@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "market_scope": "全市场",
+  "min_increase": 5.0,
+  "time_range": "3-5天",
+  "total_analyzed": 1,
+  "data": [
+    {
+      "rank": 1,
+      "code": "SH680000",
+      "name": "测试股票1",
+      "current_price": 6135.935550040217,
+      "score": 56.62,
+      "expected_increase": 16.0,
+      "explosion_energy": 10.7,
+      "key_patterns": [
+        "1次涨停信号"
+      ],
+      "key_signals": [
+        "成交量放大",
+        "涨停信号",
+        "高爆发概率"
+      ],
+      "technical_indicators": {
+        "macd_score": 0.44,
+        "kdj_score": 0.41,
+        "rsi_score": 0.69
+      },
+      "volume_price_relation": {
+        "coordination": 0.84,
+        "big_order_ratio": 0.66
+      },
+      "industry": "科技",
+      "industry_analysis": {
+        "industry": "科技",
+        "is_hot_industry": false,
+        "industry_score": 0.5,
+        "industry_data": {}
+      }
+    }
+  ],
+  "advanced_analysis": {
+    "market_sentiment": {
+      "market_sentiment": 0.7789101447163295,
+      "market_trend": "上升",
+      "hot_industries": [
+        "半导体",
+        "新能源",
+        "医药",
+        "消费",
+        "金融"
+      ],
+      "sentiment_indicators": {
+        "fear_greed_index": 46.72501241168909,
+        "market_breadth": 0.5126563041103811,
+        "put_call_ratio": 1.060398312720592
+      }
+    },
+    "hot_industries": [
+      "半导体",
+      "新能源",
+      "医药",
+      "消费",
+      "金融"
+    ],
+    "industry_distribution": [
+      {
+        "industry": "科技",
+        "count": 1,
+        "percentage": 100.0,
+        "is_hot": false
+      }
+    ],
+    "filtering_parameters": {
+      "volume_surge_threshold": 0.8,
+      "money_flow_threshold": 0.24,
+      "price_strength_threshold": 0.4,
+      "coordination_threshold": 0.32000000000000006,
+      "macd_score_threshold": 0.35,
+      "explosion_probability_threshold": 0.45
+    },
+    "execution_summary": {
+      "execution_time": 0,
+      "timestamp": "2025-04-27 16:32:47",
+      "candidates_count": 1,
+      "features_enabled": {
+        "industry_rotation": true,
+        "sentiment_analysis": true,
+        "adaptive_filtering": true,
+        "thread_count": 2
+      }
+    }
+  }
+}
