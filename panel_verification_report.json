@@ -1,0 +1,74 @@
+{
+  "验证时间": "2025-05-04 22:51:23",
+  "验证结果摘要": {
+    "总面板数": 8,
+    "方法存在数": 8,
+    "完全支持数": 8
+  },
+  "详细结果": [
+    {
+      "name": "量子选股面板",
+      "file": "quantum_stock_finder_panel.py",
+      "exists": true,
+      "method_exists": true,
+      "handles_results": true,
+      "status": "完全支持"
+    },
+    {
+      "name": "市场分析面板",
+      "file": "market_analysis_panel.py",
+      "exists": true,
+      "method_exists": true,
+      "handles_results": true,
+      "status": "完全支持"
+    },
+    {
+      "name": "量子电路面板",
+      "file": "quantum_circuit_panel.py",
+      "exists": true,
+      "method_exists": true,
+      "handles_results": true,
+      "status": "完全支持"
+    },
+    {
+      "name": "策略回测面板",
+      "file": "strategy_backtest_panel.py",
+      "exists": true,
+      "method_exists": true,
+      "handles_results": true,
+      "status": "完全支持"
+    },
+    {
+      "name": "指数研究面板",
+      "file": "index_research_panel.py",
+      "exists": true,
+      "method_exists": true,
+      "handles_results": true,
+      "status": "完全支持"
+    },
+    {
+      "name": "新闻分析面板",
+      "file": "news_analysis_panel.py",
+      "exists": true,
+      "method_exists": true,
+      "handles_results": true,
+      "status": "完全支持"
+    },
+    {
+      "name": "打板涨停面板",
+      "file": "limit_board_panel.py",
+      "exists": true,
+      "method_exists": true,
+      "handles_results": true,
+      "status": "完全支持"
+    },
+    {
+      "name": "爆发式股票面板",
+      "file": "explosive_stocks_panel.py",
+      "exists": true,
+      "method_exists": true,
+      "handles_results": true,
+      "status": "完全支持"
+    }
+  ]
+}
